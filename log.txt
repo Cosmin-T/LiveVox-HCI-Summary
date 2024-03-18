@@ -1,0 +1,1435 @@
+2024-03-11 18:26:54,835 - INFO - NumExpr defaulting to 8 threads.
+2024-03-11 18:26:55,215 - INFO - File skipped: /Volumes/Samsung 970 EVO/Documents/Python/livevox_hci_summary/Overall Average Ready Time - 03-10-2024.xlsx
+2024-03-11 18:26:58,370 - INFO - User Added
+2024-03-11 18:26:58,407 - INFO - Password Added
+2024-03-11 18:26:59,772 - INFO - Next Clicked
+2024-03-11 18:27:01,371 - INFO - Review Clicked
+2024-03-11 18:27:01,433 - INFO - Agent Reports Clicked
+2024-03-11 18:27:01,489 - INFO - Agent Summary Report Clicked
+2024-03-11 18:27:02,038 - INFO - Current Date String: 03/11/2024
+2024-03-11 18:27:02,039 - INFO - Current Date: 2024-03-11 Today:, 2024-03-11
+2024-03-11 18:27:02,039 - INFO - Dates match
+2024-03-11 18:27:02,158 - INFO - SET 03/08/2024
+2024-03-11 18:27:02,172 - INFO - Current Date String: 03/11/2024
+2024-03-11 18:27:02,172 - INFO - Current Date: 2024-03-11 Today:, 2024-03-11
+2024-03-11 18:27:02,172 - INFO - Dates match
+2024-03-11 18:27:02,265 - INFO - SET 03/08/2024
+2024-03-11 18:27:02,317 - INFO - Quick Connect Clicked
+2024-03-11 18:27:02,367 - INFO - Service Format JCI_HCI_AGENT (3181894) Clicked
+2024-03-11 18:27:20,980 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-11 18:27:22,986 - INFO - Generated Successfully
+2024-03-11 18:27:22,987 - INFO - Downloading Successfully
+
+2024-03-11 18:27:23,049 - INFO - Quick Connect Clicked
+2024-03-11 18:27:23,091 - INFO - Service Format BN_HCI_AGENT (3176615) Clicked
+2024-03-11 18:27:28,840 - INFO - Renamed file report_51f15e79-d92f-44ca-8209-5a874816b934.xls to: BN_HCI_AGENT (3176615)_03_10_2024.xls
+2024-03-11 18:27:28,840 - INFO - Generated Successfully
+2024-03-11 18:27:28,840 - INFO - Downloading Successfully
+
+2024-03-11 18:27:28,878 - INFO - Quick Connect Clicked
+2024-03-11 18:27:28,925 - INFO - Service Format AU_HCI_AGENT (3174939) Clicked
+2024-03-11 18:27:34,734 - INFO - Renamed file report_54f466a2-6969-4800-a0fe-23c094900be9.xls to: AU_HCI_AGENT (3174939)_03_10_2024.xls
+2024-03-11 18:27:34,734 - INFO - Generated Successfully
+2024-03-11 18:27:34,734 - INFO - Downloading Successfully
+
+2024-03-11 18:27:34,786 - INFO - Quick Connect Clicked
+2024-03-11 18:27:34,827 - INFO - Service Format DS_HCI_AGENT (3173370) Clicked
+2024-03-11 18:27:40,276 - INFO - Renamed file report_8b952846-d5c2-4cad-b1b5-a734ffb5c5a0.xls to: DS_HCI_AGENT (3173370)_03_10_2024.xls
+2024-03-11 18:27:40,277 - INFO - Generated Successfully
+2024-03-11 18:27:40,277 - INFO - Downloading Successfully
+
+2024-03-11 18:27:40,339 - INFO - Quick Connect Clicked
+2024-03-11 18:27:40,384 - INFO - Service Format FEDEX_HCI_AGENT (3175378) Clicked
+2024-03-11 18:27:45,886 - INFO - Renamed file report_b2f3f20a-ab9f-4fd0-a99c-b2c5b1203acc.xls to: FEDEX_HCI_AGENT (3175378)_03_10_2024.xls
+2024-03-11 18:27:45,886 - INFO - Generated Successfully
+2024-03-11 18:27:45,886 - INFO - Downloading Successfully
+
+2024-03-11 18:27:45,947 - INFO - Quick Connect Clicked
+2024-03-11 18:27:45,994 - INFO - Service Format LB1_HCI_AGENT (3183640) Clicked
+2024-03-11 18:28:04,620 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-11 18:28:06,625 - INFO - Generated Successfully
+2024-03-11 18:28:06,625 - INFO - Downloading Successfully
+
+2024-03-11 18:28:06,670 - INFO - Quick Connect Clicked
+2024-03-11 18:28:06,720 - INFO - Service Format LB2_HCI_AGENT (3174416) Clicked
+2024-03-11 18:28:25,326 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-11 18:28:27,331 - INFO - Generated Successfully
+2024-03-11 18:28:27,331 - INFO - Downloading Successfully
+
+2024-03-11 18:28:27,392 - INFO - Quick Connect Clicked
+2024-03-11 18:28:27,448 - INFO - Service Format SW_HCI_AGENT (3174210) Clicked
+2024-03-11 18:28:46,078 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-11 18:28:48,083 - INFO - Generated Successfully
+2024-03-11 18:28:48,084 - INFO - Downloading Successfully
+
+2024-03-11 18:28:48,144 - INFO - Quick Connect Clicked
+2024-03-11 18:28:48,197 - INFO - Service Format LARGE_BAL_HCI_AGENT (3179837) Clicked
+2024-03-11 18:29:06,801 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-11 18:29:08,808 - INFO - Generated Successfully
+2024-03-11 18:29:08,808 - INFO - Downloading Successfully
+
+2024-03-11 18:29:08,869 - INFO - Quick Connect Clicked
+2024-03-11 18:29:08,924 - INFO - Service Format PRIMO_HCI_AGENT (3177881) Clicked
+2024-03-11 18:29:27,601 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-11 18:29:29,603 - INFO - Generated Successfully
+2024-03-11 18:29:29,603 - INFO - Downloading Successfully
+
+2024-03-11 18:29:29,709 - INFO - Quick Connect Clicked
+2024-03-11 18:29:29,771 - INFO - Service Format SMALL_BAL_HCI_AGENT (3179861) Clicked
+2024-03-11 18:29:35,294 - INFO - Renamed file report_cf24a897-26c7-4824-8d74-b87687cb2c62.xls to: SMALL_BAL_HCI_AGENT (3179861)_03_10_2024.xls
+2024-03-11 18:29:35,295 - INFO - Generated Successfully
+2024-03-11 18:29:35,295 - INFO - Downloading Successfully
+
+2024-03-11 18:29:35,361 - INFO - Quick Connect Clicked
+2024-03-11 18:29:35,403 - INFO - Service Format DELL_HCI_AGENT (3184975) Clicked
+2024-03-11 18:29:41,293 - INFO - Renamed file report_d167ec5c-a86e-4584-b963-12f00106fd1d.xls to: DELL_HCI_AGENT (3184975)_03_10_2024.xls
+2024-03-11 18:29:41,294 - INFO - Generated Successfully
+2024-03-11 18:29:41,294 - INFO - Downloading Successfully
+
+2024-03-11 18:29:41,361 - INFO - Quick Connect Clicked
+2024-03-11 18:29:41,401 - INFO - Service Format USS_HCI_AGENT (3178530) Clicked
+2024-03-11 18:29:47,378 - INFO - Renamed file report_1a48bd1a-bc6c-4f8b-be8b-4c7e965bc614.xls to: USS_HCI_AGENT (3178530)_03_10_2024.xls
+2024-03-11 18:29:47,378 - INFO - Generated Successfully
+2024-03-11 18:29:47,378 - INFO - Downloading Successfully
+
+2024-03-11 18:29:49,412 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_10_2024.xls
+2024-03-11 18:29:49,420 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_10_2024.xls
+2024-03-11 18:29:49,472 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_10_2024.xls
+2024-03-11 18:29:49,474 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_10_2024.xls
+2024-03-11 18:29:49,476 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_10_2024.xls
+2024-03-11 18:29:49,477 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_10_2024.xls
+2024-03-11 18:29:49,481 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_10_2024.xls
+2024-03-11 18:29:49,483 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_10_2024.xls
+2024-03-11 18:29:49,484 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_10_2024.xls
+2024-03-11 18:29:49,522 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-10-2024.xlsx
+2024-03-11 18:29:49,528 - INFO - Saved Total row as Overall Average Ready Time - 03-10-2024.xlsx
+2024-03-11 18:29:49,824 - INFO - Average Ready Time Data appended successfully.
+2024-03-11 18:29:51,918 - INFO - Email sent successfully!
+2024-03-11 18:29:51,982 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_10_2024.xls
+2024-03-11 18:29:51,982 - INFO - /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_10_2024.xls
+2024-03-11 18:29:51,982 - INFO - /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_10_2024.xls
+2024-03-11 18:29:51,982 - INFO - /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_10_2024.xls
+2024-03-11 18:29:51,982 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_10_2024.xls
+2024-03-11 18:29:51,982 - INFO - /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_10_2024.xls
+2024-03-11 18:29:51,983 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_10_2024.xls
+2024-03-11 18:29:51,983 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_10_2024.xls removed.
+2024-03-11 18:29:51,983 - INFO - /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_10_2024.xls removed.
+2024-03-11 18:29:51,983 - INFO - /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_10_2024.xls removed.
+2024-03-11 18:29:51,984 - INFO - /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_10_2024.xls removed.
+2024-03-11 18:29:51,984 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_10_2024.xls removed.
+2024-03-11 18:29:51,984 - INFO - /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_10_2024.xls removed.
+2024-03-11 18:29:51,984 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_10_2024.xls removed.
+2024-03-11 18:29:51,984 - INFO - Done
+2024-03-11 18:29:51,984 - INFO - ---------------------------------------------------
+
+
+2024-03-12 13:15:01,115 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 13:15:01,899 - INFO - Moved file to: /Volumes/Samsung 970 EVO/Documents/Python/livevox_hci_summary/history/Overall Average Ready Time - 03-10-2024.xlsx
+2024-03-12 13:15:05,171 - INFO - User Added
+2024-03-12 13:15:05,210 - INFO - Password Added
+2024-03-12 13:15:07,444 - INFO - Next Clicked
+2024-03-12 13:15:08,502 - INFO - Review Clicked
+2024-03-12 13:15:08,552 - INFO - Agent Reports Clicked
+2024-03-12 13:15:08,606 - INFO - Agent Summary Report Clicked
+2024-03-12 13:15:09,171 - INFO - Current Date String: 03/12/2024
+2024-03-12 13:15:09,172 - INFO - Current Date: 2024-03-12 Today:, 2024-03-12
+2024-03-12 13:15:09,172 - INFO - Dates match
+2024-03-12 13:15:09,287 - INFO - SET 03/11/2024
+2024-03-12 13:15:09,300 - INFO - Current Date String: 03/12/2024
+2024-03-12 13:15:09,300 - INFO - Current Date: 2024-03-12 Today:, 2024-03-12
+2024-03-12 13:15:09,300 - INFO - Dates match
+2024-03-12 13:15:09,392 - INFO - SET 03/11/2024
+2024-03-12 13:15:09,445 - INFO - Quick Connect Clicked
+2024-03-12 13:15:09,495 - INFO - Service Format JCI_HCI_AGENT (3181894) Clicked
+2024-03-12 13:15:15,152 - INFO - Renamed file report_30cfd744-a033-446f-858e-54328b67f330.xls to: JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 13:15:15,153 - INFO - Generated Successfully
+2024-03-12 13:15:15,153 - INFO - Downloading Successfully
+
+2024-03-12 13:15:15,218 - INFO - Quick Connect Clicked
+2024-03-12 13:15:15,256 - INFO - Service Format BN_HCI_AGENT (3176615) Clicked
+2024-03-12 13:15:20,752 - INFO - Renamed file report_9a87b7aa-2f2d-4024-8d96-feef16b1a969.xls to: BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 13:15:20,752 - INFO - Generated Successfully
+2024-03-12 13:15:20,752 - INFO - Downloading Successfully
+
+2024-03-12 13:15:20,817 - INFO - Quick Connect Clicked
+2024-03-12 13:15:20,859 - INFO - Service Format AU_HCI_AGENT (3174939) Clicked
+2024-03-12 13:15:26,342 - INFO - Renamed file report_a876234f-485f-4f3f-a5bb-7eb1f34ae87c.xls to: AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 13:15:26,342 - INFO - Generated Successfully
+2024-03-12 13:15:26,342 - INFO - Downloading Successfully
+
+2024-03-12 13:15:26,398 - INFO - Quick Connect Clicked
+2024-03-12 13:15:26,443 - INFO - Service Format DS_HCI_AGENT (3173370) Clicked
+2024-03-12 13:15:31,832 - INFO - Renamed file report_ad2a00cb-4503-4f8b-bfe1-7fbd74db545a.xls to: DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 13:15:31,832 - INFO - Generated Successfully
+2024-03-12 13:15:31,833 - INFO - Downloading Successfully
+
+2024-03-12 13:15:31,891 - INFO - Quick Connect Clicked
+2024-03-12 13:15:31,931 - INFO - Service Format FEDEX_HCI_AGENT (3175378) Clicked
+2024-03-12 13:15:37,427 - INFO - Renamed file report_b568b12f-5a4d-4886-a306-f6ff82b5e446.xls to: FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 13:15:37,427 - INFO - Generated Successfully
+2024-03-12 13:15:37,427 - INFO - Downloading Successfully
+
+2024-03-12 13:15:37,488 - INFO - Quick Connect Clicked
+2024-03-12 13:15:37,531 - INFO - Service Format LB1_HCI_AGENT (3183640) Clicked
+2024-03-12 13:15:56,146 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-12 13:15:58,152 - INFO - Generated Successfully
+2024-03-12 13:15:58,152 - INFO - Downloading Successfully
+
+2024-03-12 13:15:58,217 - INFO - Quick Connect Clicked
+2024-03-12 13:15:58,260 - INFO - Service Format LB2_HCI_AGENT (3174416) Clicked
+2024-03-12 13:16:03,724 - INFO - Renamed file report_eae6b8a8-5c7b-46db-b571-f484fb874331.xls to: LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 13:16:03,724 - INFO - Generated Successfully
+2024-03-12 13:16:03,725 - INFO - Downloading Successfully
+
+2024-03-12 13:16:03,785 - INFO - Quick Connect Clicked
+2024-03-12 13:16:03,827 - INFO - Service Format SW_HCI_AGENT (3174210) Clicked
+2024-03-12 13:16:09,604 - INFO - Renamed file report_2e79401f-32f5-499e-ab20-8ebf915cd878.xls to: SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 13:16:09,605 - INFO - Generated Successfully
+2024-03-12 13:16:09,605 - INFO - Downloading Successfully
+
+2024-03-12 13:16:09,664 - INFO - Quick Connect Clicked
+2024-03-12 13:16:09,705 - INFO - Service Format LARGE_BAL_HCI_AGENT (3179837) Clicked
+2024-03-12 13:16:28,289 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-12 13:16:30,292 - INFO - Generated Successfully
+2024-03-12 13:16:30,292 - INFO - Downloading Successfully
+
+2024-03-12 13:16:30,355 - INFO - Quick Connect Clicked
+2024-03-12 13:16:30,396 - INFO - Service Format PRIMO_HCI_AGENT (3177881) Clicked
+2024-03-12 13:16:49,034 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-12 13:16:51,041 - INFO - Generated Successfully
+2024-03-12 13:16:51,042 - INFO - Downloading Successfully
+
+2024-03-12 13:16:51,089 - INFO - Quick Connect Clicked
+2024-03-12 13:16:51,139 - INFO - Service Format SMALL_BAL_HCI_AGENT (3179861) Clicked
+2024-03-12 13:16:56,790 - INFO - Renamed file report_a9f9c85c-f2e3-409c-8c73-00592430f2cd.xls to: SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 13:16:56,790 - INFO - Generated Successfully
+2024-03-12 13:16:56,790 - INFO - Downloading Successfully
+
+2024-03-12 13:16:56,850 - INFO - Quick Connect Clicked
+2024-03-12 13:16:56,898 - INFO - Service Format DELL_HCI_AGENT (3184975) Clicked
+2024-03-12 13:17:02,339 - INFO - Renamed file report_1fe6646b-a926-4254-ad4e-72844338cb8a.xls to: DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 13:17:02,340 - INFO - Generated Successfully
+2024-03-12 13:17:02,340 - INFO - Downloading Successfully
+
+2024-03-12 13:17:02,398 - INFO - Quick Connect Clicked
+2024-03-12 13:17:02,439 - INFO - Service Format USS_HCI_AGENT (3178530) Clicked
+2024-03-12 13:17:07,858 - INFO - Renamed file report_5af11728-fb1b-44cc-8dad-16383665a855.xls to: USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 13:17:07,858 - INFO - Generated Successfully
+2024-03-12 13:17:07,858 - INFO - Downloading Successfully
+
+2024-03-12 13:17:09,882 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 13:17:09,887 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 13:17:09,903 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 13:17:09,905 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 13:17:09,906 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 13:17:09,908 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 13:17:09,909 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 13:17:09,910 - INFO - Loaded files: /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 13:17:09,911 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 13:17:09,913 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 13:17:09,916 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 13:17:09,917 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 13:17:09,993 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 13:17:10,001 - INFO - Saved Total row as Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 13:17:10,274 - INFO - Average Ready Time Data appended successfully.
+2024-03-12 13:17:10,274 - ERROR - Exception: expected str, bytes or os.PathLike object, not NoneType
+2024-03-12 13:17:10,278 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 13:17:10,278 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 13:17:10,278 - INFO - /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 13:17:10,278 - INFO - /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 13:17:10,278 - INFO - /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 13:17:10,278 - INFO - /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 13:17:10,278 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 13:17:10,278 - INFO - /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 13:17:10,278 - INFO - /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 13:17:10,278 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 13:17:10,278 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls removed.
+2024-03-12 13:17:10,278 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls removed.
+2024-03-12 13:17:10,278 - INFO - /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls removed.
+2024-03-12 13:17:10,278 - INFO - /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls removed.
+2024-03-12 13:17:10,279 - INFO - /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls removed.
+2024-03-12 13:17:10,280 - INFO - /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls removed.
+2024-03-12 13:17:10,280 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls removed.
+2024-03-12 13:17:10,280 - INFO - /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls removed.
+2024-03-12 13:17:10,280 - INFO - /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls removed.
+2024-03-12 13:17:10,280 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls removed.
+2024-03-12 13:17:10,280 - INFO - Done
+2024-03-12 13:17:10,280 - INFO - ---------------------------------------------------
+
+
+2024-03-12 13:20:51,541 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 13:20:54,818 - INFO - User Added
+2024-03-12 13:20:54,855 - INFO - Password Added
+2024-03-12 13:20:56,329 - INFO - Next Clicked
+2024-03-12 13:20:58,438 - INFO - Review Clicked
+2024-03-12 13:20:58,483 - INFO - Agent Reports Clicked
+2024-03-12 13:20:58,533 - INFO - Agent Summary Report Clicked
+2024-03-12 13:20:59,066 - INFO - Current Date String: 03/12/2024
+2024-03-12 13:20:59,066 - INFO - Current Date: 2024-03-12 Today:, 2024-03-12
+2024-03-12 13:20:59,066 - INFO - Dates match
+2024-03-12 13:20:59,186 - INFO - SET 03/11/2024
+2024-03-12 13:20:59,200 - INFO - Current Date String: 03/12/2024
+2024-03-12 13:20:59,200 - INFO - Current Date: 2024-03-12 Today:, 2024-03-12
+2024-03-12 13:20:59,200 - INFO - Dates match
+2024-03-12 13:20:59,294 - INFO - SET 03/11/2024
+2024-03-12 13:20:59,344 - INFO - Quick Connect Clicked
+2024-03-12 13:20:59,395 - INFO - Service Format JCI_HCI_AGENT (3181894) Clicked
+2024-03-12 13:21:23,251 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 13:21:26,482 - INFO - User Added
+2024-03-12 13:21:26,519 - INFO - Password Added
+2024-03-12 13:21:27,933 - INFO - Next Clicked
+2024-03-12 13:21:28,992 - INFO - Review Clicked
+2024-03-12 13:21:29,038 - INFO - Agent Reports Clicked
+2024-03-12 13:21:29,096 - INFO - Agent Summary Report Clicked
+2024-03-12 13:21:29,634 - INFO - Current Date String: 03/12/2024
+2024-03-12 13:21:29,634 - INFO - Current Date: 2024-03-12 Today:, 2024-03-12
+2024-03-12 13:21:29,634 - INFO - Dates match
+2024-03-12 13:21:29,759 - INFO - SET 03/11/2024
+2024-03-12 13:21:29,772 - INFO - Current Date String: 03/12/2024
+2024-03-12 13:21:29,772 - INFO - Current Date: 2024-03-12 Today:, 2024-03-12
+2024-03-12 13:21:29,772 - INFO - Dates match
+2024-03-12 13:21:29,864 - INFO - SET 03/11/2024
+2024-03-12 13:21:29,916 - INFO - Quick Connect Clicked
+2024-03-12 13:21:29,968 - INFO - Service Format JCI_HCI_AGENT (3181894) Clicked
+2024-03-12 13:21:35,352 - INFO - Renamed file report_58b2a6eb-e6ff-4ca6-b06b-786d53916b73.xls to: JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 13:21:35,352 - INFO - Generated Successfully
+2024-03-12 13:21:35,352 - INFO - Downloading Successfully
+
+2024-03-12 13:21:35,413 - INFO - Quick Connect Clicked
+2024-03-12 13:21:35,453 - INFO - Service Format BN_HCI_AGENT (3176615) Clicked
+2024-03-12 13:21:40,931 - INFO - Renamed file report_6921a746-c976-4edb-9778-7be61c3d695d.xls to: BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 13:21:40,932 - INFO - Generated Successfully
+2024-03-12 13:21:40,932 - INFO - Downloading Successfully
+
+2024-03-12 13:21:40,993 - INFO - Quick Connect Clicked
+2024-03-12 13:21:41,035 - INFO - Service Format AU_HCI_AGENT (3174939) Clicked
+2024-03-12 13:21:46,482 - INFO - Renamed file report_5fe15502-16b4-4ecd-aaa0-5b88672c1b2a.xls to: AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 13:21:46,483 - INFO - Generated Successfully
+2024-03-12 13:21:46,483 - INFO - Downloading Successfully
+
+2024-03-12 13:21:46,540 - INFO - Quick Connect Clicked
+2024-03-12 13:21:46,584 - INFO - Service Format DS_HCI_AGENT (3173370) Clicked
+2024-03-12 13:21:51,949 - INFO - Renamed file report_ce4223af-9029-4fb3-b1ef-7252858046b9.xls to: DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 13:21:51,949 - INFO - Generated Successfully
+2024-03-12 13:21:51,949 - INFO - Downloading Successfully
+
+2024-03-12 13:21:52,009 - INFO - Quick Connect Clicked
+2024-03-12 13:21:52,050 - INFO - Service Format FEDEX_HCI_AGENT (3175378) Clicked
+2024-03-12 13:21:57,555 - INFO - Renamed file report_86e23f7a-ce52-4725-b50e-b603f316c1a5.xls to: FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 13:21:57,556 - INFO - Generated Successfully
+2024-03-12 13:21:57,556 - INFO - Downloading Successfully
+
+2024-03-12 13:21:57,613 - INFO - Quick Connect Clicked
+2024-03-12 13:21:57,657 - INFO - Service Format LB1_HCI_AGENT (3183640) Clicked
+2024-03-12 13:22:16,368 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-12 13:22:18,370 - INFO - Generated Successfully
+2024-03-12 13:22:18,370 - INFO - Downloading Successfully
+
+2024-03-12 13:22:18,431 - INFO - Quick Connect Clicked
+2024-03-12 13:22:18,478 - INFO - Service Format LB2_HCI_AGENT (3174416) Clicked
+2024-03-12 13:22:23,937 - INFO - Renamed file report_a2e9f935-2340-4339-9403-9ea2eaa7da34.xls to: LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 13:22:23,938 - INFO - Generated Successfully
+2024-03-12 13:22:23,938 - INFO - Downloading Successfully
+
+2024-03-12 13:22:23,998 - INFO - Quick Connect Clicked
+2024-03-12 13:22:24,042 - INFO - Service Format SW_HCI_AGENT (3174210) Clicked
+2024-03-12 13:22:29,857 - INFO - Renamed file report_6deb291e-4838-444a-98be-9209bc75f328.xls to: SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 13:22:29,857 - INFO - Generated Successfully
+2024-03-12 13:22:29,857 - INFO - Downloading Successfully
+
+2024-03-12 13:22:29,920 - INFO - Quick Connect Clicked
+2024-03-12 13:22:29,961 - INFO - Service Format LARGE_BAL_HCI_AGENT (3179837) Clicked
+2024-03-12 13:22:48,558 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-12 13:22:50,565 - INFO - Generated Successfully
+2024-03-12 13:22:50,565 - INFO - Downloading Successfully
+
+2024-03-12 13:22:50,628 - INFO - Quick Connect Clicked
+2024-03-12 13:22:50,681 - INFO - Service Format PRIMO_HCI_AGENT (3177881) Clicked
+2024-03-12 13:23:09,298 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-12 13:23:11,301 - INFO - Generated Successfully
+2024-03-12 13:23:11,301 - INFO - Downloading Successfully
+
+2024-03-12 13:23:11,361 - INFO - Quick Connect Clicked
+2024-03-12 13:23:11,412 - INFO - Service Format SMALL_BAL_HCI_AGENT (3179861) Clicked
+2024-03-12 13:23:17,036 - INFO - Renamed file report_07d488cf-fecb-4d23-a6f9-fa9e9c4e79ed.xls to: SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 13:23:17,036 - INFO - Generated Successfully
+2024-03-12 13:23:17,036 - INFO - Downloading Successfully
+
+2024-03-12 13:23:17,096 - INFO - Quick Connect Clicked
+2024-03-12 13:23:17,136 - INFO - Service Format DELL_HCI_AGENT (3184975) Clicked
+2024-03-12 13:23:22,534 - INFO - Renamed file report_7158efcc-9627-4b03-a248-764f79bd4c28.xls to: DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 13:23:22,534 - INFO - Generated Successfully
+2024-03-12 13:23:22,534 - INFO - Downloading Successfully
+
+2024-03-12 13:23:22,592 - INFO - Quick Connect Clicked
+2024-03-12 13:23:22,634 - INFO - Service Format USS_HCI_AGENT (3178530) Clicked
+2024-03-12 13:23:28,029 - INFO - Renamed file report_75d5a4b6-d9b2-46da-8e9c-c2683106d07f.xls to: USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 13:23:28,030 - INFO - Generated Successfully
+2024-03-12 13:23:28,030 - INFO - Downloading Successfully
+
+2024-03-12 13:23:30,051 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 13:23:30,059 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 13:23:30,083 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 13:23:30,085 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 13:23:30,087 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 13:23:30,089 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 13:23:30,091 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 13:23:30,093 - INFO - Loaded files: /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 13:23:30,095 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 13:23:30,097 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 13:23:30,100 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 13:23:30,101 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 13:23:30,122 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 13:23:30,129 - INFO - Saved Total row as Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 13:23:30,363 - INFO - Average Ready Time Data appended successfully.
+2024-03-12 13:23:30,363 - ERROR - Exception: expected str, bytes or os.PathLike object, not NoneType
+2024-03-12 13:23:30,367 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 13:23:30,367 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 13:23:30,367 - INFO - /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 13:23:30,367 - INFO - /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 13:23:30,367 - INFO - /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 13:23:30,367 - INFO - /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 13:23:30,367 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 13:23:30,367 - INFO - /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 13:23:30,367 - INFO - /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 13:23:30,367 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 13:23:30,367 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls removed.
+2024-03-12 13:23:30,367 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls removed.
+2024-03-12 13:23:30,368 - INFO - /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls removed.
+2024-03-12 13:23:30,368 - INFO - /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls removed.
+2024-03-12 13:23:30,368 - INFO - /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls removed.
+2024-03-12 13:23:30,368 - INFO - /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls removed.
+2024-03-12 13:23:30,368 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls removed.
+2024-03-12 13:23:30,368 - INFO - /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls removed.
+2024-03-12 13:23:30,368 - INFO - /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls removed.
+2024-03-12 13:23:30,368 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls removed.
+2024-03-12 13:23:30,368 - INFO - Done
+2024-03-12 13:23:30,368 - INFO - ---------------------------------------------------
+
+
+2024-03-12 14:34:30,948 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 14:34:31,797 - INFO - File skipped: /Volumes/Samsung 970 EVO/Documents/Python/livevox_hci_summary/Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:34:35,160 - INFO - User Added
+2024-03-12 14:34:35,215 - INFO - Password Added
+2024-03-12 14:34:37,010 - INFO - Next Clicked
+2024-03-12 14:34:38,063 - INFO - Review Clicked
+2024-03-12 14:34:38,117 - INFO - Agent Reports Clicked
+2024-03-12 14:34:38,170 - INFO - Agent Summary Report Clicked
+2024-03-12 14:34:38,698 - INFO - Current Date String: 03/12/2024
+2024-03-12 14:34:38,698 - INFO - Current Date: 2024-03-12 Today:, 2024-03-12
+2024-03-12 14:34:38,698 - INFO - Dates match
+2024-03-12 14:34:38,820 - INFO - SET 03/11/2024
+2024-03-12 14:34:38,836 - INFO - Current Date String: 03/12/2024
+2024-03-12 14:34:38,836 - INFO - Current Date: 2024-03-12 Today:, 2024-03-12
+2024-03-12 14:34:38,836 - INFO - Dates match
+2024-03-12 14:34:38,942 - INFO - SET 03/11/2024
+2024-03-12 14:34:39,006 - INFO - Quick Connect Clicked
+2024-03-12 14:34:39,066 - INFO - Service Format JCI_HCI_AGENT (3181894) Clicked
+2024-03-12 14:34:44,810 - INFO - Renamed file report_441de9ed-3eb3-49ec-b6f4-fe9a1714f22c.xls to: JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:34:44,811 - INFO - Generated Successfully
+2024-03-12 14:34:44,811 - INFO - Downloading Successfully
+
+2024-03-12 14:34:44,847 - INFO - Quick Connect Clicked
+2024-03-12 14:34:44,901 - INFO - Service Format BN_HCI_AGENT (3176615) Clicked
+2024-03-12 14:35:08,261 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 14:35:11,376 - INFO - User Added
+2024-03-12 14:35:11,411 - INFO - Password Added
+2024-03-12 14:35:12,945 - INFO - Next Clicked
+2024-03-12 14:35:14,058 - INFO - Review Clicked
+2024-03-12 14:35:14,117 - INFO - Agent Reports Clicked
+2024-03-12 14:35:14,187 - INFO - Agent Summary Report Clicked
+2024-03-12 14:35:14,716 - INFO - Current Date String: 03/12/2024
+2024-03-12 14:35:14,717 - INFO - Current Date: 2024-03-12 Today:, 2024-03-12
+2024-03-12 14:35:14,717 - INFO - Dates match
+2024-03-12 14:35:14,969 - INFO - SET 03/11/2024
+2024-03-12 14:35:14,994 - INFO - Current Date String: 03/12/2024
+2024-03-12 14:35:14,994 - INFO - Current Date: 2024-03-12 Today:, 2024-03-12
+2024-03-12 14:35:14,994 - INFO - Dates match
+2024-03-12 14:35:15,171 - INFO - SET 03/11/2024
+2024-03-12 14:35:15,231 - INFO - Quick Connect Clicked
+2024-03-12 14:35:15,289 - INFO - Service Format JCI_HCI_AGENT (3181894) Clicked
+2024-03-12 14:35:20,604 - INFO - Renamed file report_baac54bc-3194-4017-af6a-d2caefccf157.xls to: JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:35:20,604 - INFO - Generated Successfully
+2024-03-12 14:35:20,604 - INFO - Downloading Successfully
+
+2024-03-12 14:35:20,651 - INFO - Quick Connect Clicked
+2024-03-12 14:35:20,696 - INFO - Service Format BN_HCI_AGENT (3176615) Clicked
+2024-03-12 14:35:26,411 - INFO - Renamed file report_dbc3c0cd-683c-4bee-8089-24803afcef98.xls to: BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 14:35:26,412 - INFO - Generated Successfully
+2024-03-12 14:35:26,412 - INFO - Downloading Successfully
+
+2024-03-12 14:35:26,466 - INFO - Quick Connect Clicked
+2024-03-12 14:35:26,510 - INFO - Service Format AU_HCI_AGENT (3174939) Clicked
+2024-03-12 14:35:31,942 - INFO - Renamed file report_027368ba-8ef5-4847-88f0-d37ca85e73b5.xls to: AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 14:35:31,942 - INFO - Generated Successfully
+2024-03-12 14:35:31,942 - INFO - Downloading Successfully
+
+2024-03-12 14:35:31,981 - INFO - Quick Connect Clicked
+2024-03-12 14:35:32,026 - INFO - Service Format DS_HCI_AGENT (3173370) Clicked
+2024-03-12 14:35:37,316 - INFO - Renamed file report_b172ed5c-26e2-4f09-a10d-af92872fb9a4.xls to: DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 14:35:37,316 - INFO - Generated Successfully
+2024-03-12 14:35:37,316 - INFO - Downloading Successfully
+
+2024-03-12 14:35:37,354 - INFO - Quick Connect Clicked
+2024-03-12 14:35:37,400 - INFO - Service Format FEDEX_HCI_AGENT (3175378) Clicked
+2024-03-12 14:35:42,862 - INFO - Renamed file report_d9d4f1fb-b4d9-4392-a266-4d5c9c1ac91e.xls to: FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 14:35:42,862 - INFO - Generated Successfully
+2024-03-12 14:35:42,862 - INFO - Downloading Successfully
+
+2024-03-12 14:35:42,899 - INFO - Quick Connect Clicked
+2024-03-12 14:35:42,943 - INFO - Service Format LB1_HCI_AGENT (3183640) Clicked
+2024-03-12 14:36:01,426 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-12 14:36:03,432 - INFO - Generated Successfully
+2024-03-12 14:36:03,432 - INFO - Downloading Successfully
+
+2024-03-12 14:36:03,495 - INFO - Quick Connect Clicked
+2024-03-12 14:36:03,542 - INFO - Service Format LB2_HCI_AGENT (3174416) Clicked
+2024-03-12 14:36:09,021 - INFO - Renamed file report_1dd0857c-352b-4daf-b654-e57fafda6216.xls to: LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 14:36:09,021 - INFO - Generated Successfully
+2024-03-12 14:36:09,021 - INFO - Downloading Successfully
+
+2024-03-12 14:36:09,057 - INFO - Quick Connect Clicked
+2024-03-12 14:36:09,107 - INFO - Service Format SW_HCI_AGENT (3174210) Clicked
+2024-03-12 14:36:14,574 - INFO - Renamed file report_10396a6e-03d0-47e9-bbbf-9c3225308687.xls to: SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 14:36:14,574 - INFO - Generated Successfully
+2024-03-12 14:36:14,574 - INFO - Downloading Successfully
+
+2024-03-12 14:36:14,632 - INFO - Quick Connect Clicked
+2024-03-12 14:36:14,678 - INFO - Service Format LARGE_BAL_HCI_AGENT (3179837) Clicked
+2024-03-12 14:36:33,237 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-12 14:36:35,244 - INFO - Generated Successfully
+2024-03-12 14:36:35,244 - INFO - Downloading Successfully
+
+2024-03-12 14:36:35,308 - INFO - Quick Connect Clicked
+2024-03-12 14:36:35,367 - INFO - Service Format PRIMO_HCI_AGENT (3177881) Clicked
+2024-03-12 14:36:54,190 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-12 14:36:56,197 - INFO - Generated Successfully
+2024-03-12 14:36:56,197 - INFO - Downloading Successfully
+
+2024-03-12 14:36:56,266 - INFO - Quick Connect Clicked
+2024-03-12 14:36:56,319 - INFO - Service Format SMALL_BAL_HCI_AGENT (3179861) Clicked
+2024-03-12 14:37:02,092 - INFO - Renamed file report_d3022dc3-8350-416d-8af5-3009854eb2fd.xls to: SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 14:37:02,093 - INFO - Generated Successfully
+2024-03-12 14:37:02,093 - INFO - Downloading Successfully
+
+2024-03-12 14:37:02,191 - INFO - Quick Connect Clicked
+2024-03-12 14:37:02,282 - INFO - Service Format DELL_HCI_AGENT (3184975) Clicked
+2024-03-12 14:37:07,723 - INFO - Renamed file report_d46b92d5-43c7-40aa-9f7f-dbec57380ae6.xls to: DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 14:37:07,723 - INFO - Generated Successfully
+2024-03-12 14:37:07,724 - INFO - Downloading Successfully
+
+2024-03-12 14:37:07,797 - INFO - Quick Connect Clicked
+2024-03-12 14:37:07,840 - INFO - Service Format USS_HCI_AGENT (3178530) Clicked
+2024-03-12 14:37:13,270 - INFO - Renamed file report_698d2af1-653d-4c7e-a37c-e8e21639df6f.xls to: USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 14:37:13,271 - INFO - Generated Successfully
+2024-03-12 14:37:13,271 - INFO - Downloading Successfully
+
+2024-03-12 14:37:15,295 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:37:15,311 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:37:15,338 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:37:15,340 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 14:37:15,342 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 14:37:15,345 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 14:37:15,347 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 14:37:15,349 - INFO - Loaded files: /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 14:37:15,351 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 14:37:15,354 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 14:37:15,355 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 14:37:15,357 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 14:37:15,377 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:37:15,384 - INFO - Saved Total row as Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:37:15,648 - INFO - Average Ready Time Data appended successfully.
+2024-03-12 14:37:15,649 - ERROR - Exception: expected str, bytes or os.PathLike object, not NoneType
+2024-03-12 14:37:15,649 - INFO - Done
+2024-03-12 14:37:15,649 - INFO - ---------------------------------------------------
+
+
+2024-03-12 14:52:40,331 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 14:52:40,862 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:52:40,866 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:52:40,876 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:52:40,878 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 14:52:40,880 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 14:52:40,881 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 14:52:40,883 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 14:52:40,884 - INFO - Loaded files: /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 14:52:40,885 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 14:52:40,887 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 14:52:40,888 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 14:52:40,891 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 14:52:40,906 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:52:40,911 - INFO - Saved Total row as Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:52:41,186 - INFO - Average Ready Time Data appended successfully.
+2024-03-12 14:52:41,186 - ERROR - Exception: expected str, bytes or os.PathLike object, not NoneType
+2024-03-12 14:52:41,186 - INFO - Done
+2024-03-12 14:52:41,186 - INFO - ---------------------------------------------------
+
+
+2024-03-12 14:53:26,842 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 14:53:27,280 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:53:27,283 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:53:27,295 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:53:27,297 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 14:53:27,299 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 14:53:27,301 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 14:53:27,303 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 14:53:27,305 - INFO - Loaded files: /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 14:53:27,307 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 14:53:27,313 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 14:53:27,317 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 14:53:27,322 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 14:53:27,344 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:53:27,354 - INFO - Saved Total row as Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:53:27,696 - INFO - Average Ready Time Data appended successfully.
+2024-03-12 14:53:27,696 - ERROR - Exception: expected str, bytes or os.PathLike object, not NoneType
+2024-03-12 14:53:27,696 - INFO - Done
+2024-03-12 14:53:27,696 - INFO - ---------------------------------------------------
+
+
+2024-03-12 14:54:26,044 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 14:54:26,474 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:54:26,478 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:54:26,486 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:54:26,488 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 14:54:26,490 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 14:54:26,492 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 14:54:26,493 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 14:54:26,494 - INFO - Loaded files: /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 14:54:26,496 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 14:54:26,498 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 14:54:26,499 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 14:54:26,502 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 14:54:26,518 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:54:26,523 - INFO - Saved Total row as Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:54:26,759 - INFO - Average Ready Time Data appended successfully.
+2024-03-12 14:54:28,632 - INFO - Email sent successfully!
+2024-03-12 14:54:28,681 - INFO - Done
+2024-03-12 14:54:28,681 - INFO - ---------------------------------------------------
+
+
+2024-03-12 14:55:03,324 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 14:55:03,772 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:55:03,776 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:55:03,786 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:55:03,787 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 14:55:03,789 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 14:55:03,790 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 14:55:03,792 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 14:55:03,793 - INFO - Loaded files: /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 14:55:03,794 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 14:55:03,796 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 14:55:03,797 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 14:55:03,799 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 14:55:03,813 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:55:03,817 - INFO - Saved Total row as Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:55:03,953 - ERROR - An error occurred: Invalid RGBA argument: 'oceanblue'
+2024-03-12 14:55:05,574 - INFO - Email sent successfully!
+2024-03-12 14:55:05,694 - INFO - Done
+2024-03-12 14:55:05,694 - INFO - ---------------------------------------------------
+
+
+2024-03-12 14:55:16,875 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 14:55:17,274 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:55:17,277 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:55:17,287 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:55:17,288 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 14:55:17,290 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 14:55:17,292 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 14:55:17,293 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 14:55:17,294 - INFO - Loaded files: /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 14:55:17,296 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 14:55:17,298 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 14:55:17,300 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 14:55:17,302 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 14:55:17,316 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:55:17,322 - INFO - Saved Total row as Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:55:17,461 - ERROR - An error occurred: Invalid RGBA argument: 'oceanblue'
+2024-03-12 14:55:18,916 - INFO - Email sent successfully!
+2024-03-12 14:55:18,960 - INFO - Done
+2024-03-12 14:55:18,961 - INFO - ---------------------------------------------------
+
+
+2024-03-12 14:59:25,386 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 14:59:25,885 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:59:25,889 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:59:25,899 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:59:25,901 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 14:59:25,902 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 14:59:25,904 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 14:59:25,905 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 14:59:25,907 - INFO - Loaded files: /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 14:59:25,908 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 14:59:25,910 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 14:59:25,911 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 14:59:25,913 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 14:59:25,930 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:59:25,935 - INFO - Saved Total row as Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:59:26,114 - ERROR - An error occurred: Invalid RGBA argument: '00ffc2'
+2024-03-12 14:59:27,734 - INFO - Email sent successfully!
+2024-03-12 14:59:27,835 - INFO - Done
+2024-03-12 14:59:27,835 - INFO - ---------------------------------------------------
+
+
+2024-03-12 14:59:45,031 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 14:59:45,613 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:59:45,616 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:59:45,629 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:59:45,631 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 14:59:45,633 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 14:59:45,634 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 14:59:45,636 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 14:59:45,637 - INFO - Loaded files: /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 14:59:45,638 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 14:59:45,640 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 14:59:45,642 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 14:59:45,643 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 14:59:45,658 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:59:45,664 - INFO - Saved Total row as Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:59:45,809 - ERROR - An error occurred: Invalid RGBA argument: '00ffc2'
+2024-03-12 14:59:45,809 - ERROR - Exception: expected str, bytes or os.PathLike object, not NoneType
+2024-03-12 14:59:45,809 - INFO - Done
+2024-03-12 14:59:45,809 - INFO - ---------------------------------------------------
+
+
+2024-03-12 14:59:56,468 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 14:59:56,964 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:59:56,969 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:59:56,982 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 14:59:56,985 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 14:59:56,987 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 14:59:56,988 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 14:59:56,990 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 14:59:56,991 - INFO - Loaded files: /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 14:59:56,993 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 14:59:56,996 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 14:59:56,997 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 14:59:57,000 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 14:59:57,020 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:59:57,026 - INFO - Saved Total row as Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 14:59:57,276 - INFO - Average Ready Time Data appended successfully.
+2024-03-12 14:59:59,085 - INFO - Email sent successfully!
+2024-03-12 14:59:59,134 - INFO - Done
+2024-03-12 14:59:59,134 - INFO - ---------------------------------------------------
+
+
+2024-03-12 15:01:35,510 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 15:01:36,555 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 15:01:36,559 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 15:01:36,569 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 15:01:36,571 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 15:01:36,573 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 15:01:36,575 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 15:01:36,577 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 15:01:36,578 - INFO - Loaded files: /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 15:01:36,580 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 15:01:36,581 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 15:01:36,583 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 15:01:36,585 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 15:01:36,598 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 15:01:36,603 - INFO - Saved Total row as Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 15:01:36,870 - INFO - Average Ready Time Data appended successfully.
+2024-03-12 15:01:38,801 - INFO - Email sent successfully!
+2024-03-12 15:01:38,906 - INFO - Done
+2024-03-12 15:01:38,906 - INFO - ---------------------------------------------------
+
+
+2024-03-12 15:02:33,623 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 15:02:34,176 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 15:02:34,180 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 15:02:34,191 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 15:02:34,193 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 15:02:34,195 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 15:02:34,197 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 15:02:34,198 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 15:02:34,200 - INFO - Loaded files: /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 15:02:34,201 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 15:02:34,203 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 15:02:34,204 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 15:02:34,207 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 15:02:34,225 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 15:02:34,235 - INFO - Saved Total row as Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 15:02:34,473 - INFO - Average Ready Time Data appended successfully.
+2024-03-12 15:02:36,209 - INFO - Email sent successfully!
+2024-03-12 15:02:36,261 - INFO - Done
+2024-03-12 15:02:36,261 - INFO - ---------------------------------------------------
+
+
+2024-03-12 15:03:59,592 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 15:04:00,109 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 15:04:00,114 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 15:04:00,125 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 15:04:00,127 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 15:04:00,129 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 15:04:00,130 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 15:04:00,132 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 15:04:00,133 - INFO - Loaded files: /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 15:04:00,135 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 15:04:00,137 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 15:04:00,139 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 15:04:00,140 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 15:04:00,160 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 15:04:00,165 - INFO - Saved Total row as Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 15:04:00,404 - INFO - Average Ready Time Data appended successfully.
+2024-03-12 15:04:02,189 - INFO - Email sent successfully!
+2024-03-12 15:04:02,241 - INFO - Done
+2024-03-12 15:04:02,241 - INFO - ---------------------------------------------------
+
+
+2024-03-12 15:04:20,937 - INFO - NumExpr defaulting to 8 threads.
+2024-03-12 15:04:21,431 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 15:04:21,435 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 15:04:21,448 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_11_2024.xls
+2024-03-12 15:04:21,450 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_11_2024.xls
+2024-03-12 15:04:21,452 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_11_2024.xls
+2024-03-12 15:04:21,454 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_11_2024.xls
+2024-03-12 15:04:21,455 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_11_2024.xls
+2024-03-12 15:04:21,457 - INFO - Loaded files: /Users/cosmint/Downloads/LB2_HCI_AGENT (3174416)_03_11_2024.xls
+2024-03-12 15:04:21,458 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_11_2024.xls
+2024-03-12 15:04:21,460 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_11_2024.xls
+2024-03-12 15:04:21,462 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_11_2024.xls
+2024-03-12 15:04:21,464 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_11_2024.xls
+2024-03-12 15:04:21,480 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 15:04:21,486 - INFO - Saved Total row as Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-12 15:04:21,743 - INFO - Average Ready Time Data appended successfully.
+2024-03-12 15:04:23,534 - INFO - Email sent successfully!
+2024-03-12 15:04:23,585 - INFO - Done
+2024-03-12 15:04:23,585 - INFO - ---------------------------------------------------
+
+
+2024-03-13 13:51:07,420 - INFO - NumExpr defaulting to 8 threads.
+2024-03-13 13:51:08,415 - INFO - Moved file to: /Volumes/Samsung 970 EVO/Documents/Python/livevox_hci_summary/history/Overall Average Ready Time - 03-11-2024.xlsx
+2024-03-13 13:51:14,750 - INFO - User Added
+2024-03-13 13:51:14,792 - INFO - Password Added
+2024-03-13 13:51:16,285 - INFO - Next Clicked
+2024-03-13 13:51:18,375 - INFO - Review Clicked
+2024-03-13 13:51:18,428 - INFO - Agent Reports Clicked
+2024-03-13 13:51:18,489 - INFO - Agent Summary Report Clicked
+2024-03-13 13:51:19,017 - INFO - Current Date String: 03/13/2024
+2024-03-13 13:51:19,018 - INFO - Current Date: 2024-03-13 Today:, 2024-03-13
+2024-03-13 13:51:19,018 - INFO - Dates match
+2024-03-13 13:51:19,176 - INFO - SET 03/12/2024
+2024-03-13 13:51:19,196 - INFO - Current Date String: 03/13/2024
+2024-03-13 13:51:19,196 - INFO - Current Date: 2024-03-13 Today:, 2024-03-13
+2024-03-13 13:51:19,196 - INFO - Dates match
+2024-03-13 13:51:19,321 - INFO - SET 03/12/2024
+2024-03-13 13:51:19,375 - INFO - Quick Connect Clicked
+2024-03-13 13:51:19,443 - INFO - Service Format JCI_HCI_AGENT (3181894) Clicked
+2024-03-13 13:51:24,789 - INFO - Renamed file report_d0990aad-f752-426c-8229-9c3312054ffd.xls to: JCI_HCI_AGENT (3181894)_03_12_2024.xls
+2024-03-13 13:51:24,790 - INFO - Generated Successfully
+2024-03-13 13:51:24,790 - INFO - Downloading Successfully
+
+2024-03-13 13:51:24,825 - INFO - Quick Connect Clicked
+2024-03-13 13:51:24,877 - INFO - Service Format BN_HCI_AGENT (3176615) Clicked
+2024-03-13 13:51:30,385 - INFO - Renamed file report_5cd9c3e2-5785-4845-a75d-a7a7f9aaf7b3.xls to: BN_HCI_AGENT (3176615)_03_12_2024.xls
+2024-03-13 13:51:30,385 - INFO - Generated Successfully
+2024-03-13 13:51:30,385 - INFO - Downloading Successfully
+
+2024-03-13 13:51:30,425 - INFO - Quick Connect Clicked
+2024-03-13 13:51:30,473 - INFO - Service Format AU_HCI_AGENT (3174939) Clicked
+2024-03-13 13:51:48,864 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-13 13:51:50,870 - INFO - Generated Successfully
+2024-03-13 13:51:50,870 - INFO - Downloading Successfully
+
+2024-03-13 13:51:50,905 - INFO - Quick Connect Clicked
+2024-03-13 13:51:50,960 - INFO - Service Format DS_HCI_AGENT (3173370) Clicked
+2024-03-13 13:51:56,283 - INFO - Renamed file report_9e970e66-f608-443f-8db9-aa9ac34851d8.xls to: DS_HCI_AGENT (3173370)_03_12_2024.xls
+2024-03-13 13:51:56,284 - INFO - Generated Successfully
+2024-03-13 13:51:56,284 - INFO - Downloading Successfully
+
+2024-03-13 13:51:56,341 - INFO - Quick Connect Clicked
+2024-03-13 13:51:56,392 - INFO - Service Format FEDEX_HCI_AGENT (3175378) Clicked
+2024-03-13 13:52:01,861 - INFO - Renamed file report_0f8a2732-4b3a-435f-913f-7777c7880065.xls to: FEDEX_HCI_AGENT (3175378)_03_12_2024.xls
+2024-03-13 13:52:01,861 - INFO - Generated Successfully
+2024-03-13 13:52:01,861 - INFO - Downloading Successfully
+
+2024-03-13 13:52:01,937 - INFO - Quick Connect Clicked
+2024-03-13 13:52:02,005 - INFO - Service Format LB1_HCI_AGENT (3183640) Clicked
+2024-03-13 13:52:20,391 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-13 13:52:22,396 - INFO - Generated Successfully
+2024-03-13 13:52:22,396 - INFO - Downloading Successfully
+
+2024-03-13 13:52:22,432 - INFO - Quick Connect Clicked
+2024-03-13 13:52:22,487 - INFO - Service Format LB2_HCI_AGENT (3174416) Clicked
+2024-03-13 13:52:40,904 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-13 13:52:42,909 - INFO - Generated Successfully
+2024-03-13 13:52:42,909 - INFO - Downloading Successfully
+
+2024-03-13 13:52:42,949 - INFO - Quick Connect Clicked
+2024-03-13 13:52:43,010 - INFO - Service Format SW_HCI_AGENT (3174210) Clicked
+2024-03-13 13:53:01,402 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-13 13:53:03,408 - INFO - Generated Successfully
+2024-03-13 13:53:03,408 - INFO - Downloading Successfully
+
+2024-03-13 13:53:03,458 - INFO - Quick Connect Clicked
+2024-03-13 13:53:03,520 - INFO - Service Format LARGE_BAL_HCI_AGENT (3179837) Clicked
+2024-03-13 13:53:21,928 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-13 13:53:23,934 - INFO - Generated Successfully
+2024-03-13 13:53:23,934 - INFO - Downloading Successfully
+
+2024-03-13 13:53:23,969 - INFO - Quick Connect Clicked
+2024-03-13 13:53:24,023 - INFO - Service Format PRIMO_HCI_AGENT (3177881) Clicked
+2024-03-13 13:53:42,402 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-13 13:53:44,407 - INFO - Generated Successfully
+2024-03-13 13:53:44,407 - INFO - Downloading Successfully
+
+2024-03-13 13:53:44,447 - INFO - Quick Connect Clicked
+2024-03-13 13:53:44,503 - INFO - Service Format SMALL_BAL_HCI_AGENT (3179861) Clicked
+2024-03-13 13:53:50,125 - INFO - Renamed file report_27822e15-7bfe-4f94-a933-de708ed1cfe2.xls to: SMALL_BAL_HCI_AGENT (3179861)_03_12_2024.xls
+2024-03-13 13:53:50,125 - INFO - Generated Successfully
+2024-03-13 13:53:50,125 - INFO - Downloading Successfully
+
+2024-03-13 13:53:50,191 - INFO - Quick Connect Clicked
+2024-03-13 13:53:50,240 - INFO - Service Format DELL_HCI_AGENT (3184975) Clicked
+2024-03-13 13:53:55,571 - INFO - Renamed file report_9d70af08-27ca-4c44-a361-e9c4112dbb78.xls to: DELL_HCI_AGENT (3184975)_03_12_2024.xls
+2024-03-13 13:53:55,571 - INFO - Generated Successfully
+2024-03-13 13:53:55,571 - INFO - Downloading Successfully
+
+2024-03-13 13:53:55,633 - INFO - Quick Connect Clicked
+2024-03-13 13:53:55,693 - INFO - Service Format USS_HCI_AGENT (3178530) Clicked
+2024-03-13 13:54:01,072 - INFO - Renamed file report_f39e29b0-ec67-4e4b-919e-a951fff7e963.xls to: USS_HCI_AGENT (3178530)_03_12_2024.xls
+2024-03-13 13:54:01,072 - INFO - Generated Successfully
+2024-03-13 13:54:01,072 - INFO - Downloading Successfully
+
+2024-03-13 13:54:03,091 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_12_2024.xls
+2024-03-13 13:54:03,096 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_12_2024.xls
+2024-03-13 13:54:03,112 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_12_2024.xls
+2024-03-13 13:54:03,114 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_12_2024.xls
+2024-03-13 13:54:03,115 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_12_2024.xls
+2024-03-13 13:54:03,117 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_12_2024.xls
+2024-03-13 13:54:03,119 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_12_2024.xls
+2024-03-13 13:54:03,121 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_12_2024.xls
+2024-03-13 13:54:03,123 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_12_2024.xls
+2024-03-13 13:54:03,142 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-12-2024.xlsx
+2024-03-13 13:54:03,149 - INFO - Saved Total row as Overall Average Ready Time - 03-12-2024.xlsx
+2024-03-13 13:54:03,456 - INFO - Average Ready Time Data appended successfully.
+2024-03-13 13:54:03,456 - ERROR - Exception: expected str, bytes or os.PathLike object, not NoneType
+2024-03-13 13:54:03,461 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_12_2024.xls
+2024-03-13 13:54:03,461 - INFO - /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_12_2024.xls
+2024-03-13 13:54:03,461 - INFO - /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_12_2024.xls
+2024-03-13 13:54:03,461 - INFO - /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_12_2024.xls
+2024-03-13 13:54:03,461 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_12_2024.xls
+2024-03-13 13:54:03,461 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_12_2024.xls
+2024-03-13 13:54:03,461 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_12_2024.xls
+2024-03-13 13:54:03,461 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_12_2024.xls removed.
+2024-03-13 13:54:03,461 - INFO - /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_12_2024.xls removed.
+2024-03-13 13:54:03,461 - INFO - /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_12_2024.xls removed.
+2024-03-13 13:54:03,461 - INFO - /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_12_2024.xls removed.
+2024-03-13 13:54:03,461 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_12_2024.xls removed.
+2024-03-13 13:54:03,461 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_12_2024.xls removed.
+2024-03-13 13:54:03,462 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_12_2024.xls removed.
+2024-03-13 13:54:03,462 - INFO - Done
+2024-03-13 13:54:03,462 - INFO - ---------------------------------------------------
+
+
+2024-03-14 13:20:23,987 - INFO - NumExpr defaulting to 8 threads.
+2024-03-14 13:20:24,988 - INFO - Moved file to: /Volumes/Samsung 970 EVO/Documents/Python/livevox_hci_summary/history/Overall Average Ready Time - 03-12-2024.xlsx
+2024-03-14 13:20:31,342 - INFO - User Added
+2024-03-14 13:20:31,380 - INFO - Password Added
+2024-03-14 13:20:32,801 - INFO - Next Clicked
+2024-03-14 13:20:34,384 - INFO - Review Clicked
+2024-03-14 13:20:34,429 - INFO - Agent Reports Clicked
+2024-03-14 13:20:34,482 - INFO - Agent Summary Report Clicked
+2024-03-14 13:20:35,019 - INFO - Current Date String: 03/14/2024
+2024-03-14 13:20:35,019 - INFO - Current Date: 2024-03-14 Today:, 2024-03-14
+2024-03-14 13:20:35,019 - INFO - Dates match
+2024-03-14 13:20:35,138 - INFO - SET 03/13/2024
+2024-03-14 13:20:35,152 - INFO - Current Date String: 03/14/2024
+2024-03-14 13:20:35,152 - INFO - Current Date: 2024-03-14 Today:, 2024-03-14
+2024-03-14 13:20:35,152 - INFO - Dates match
+2024-03-14 13:20:35,246 - INFO - SET 03/13/2024
+2024-03-14 13:20:35,298 - INFO - Quick Connect Clicked
+2024-03-14 13:20:35,350 - INFO - Service Format JCI_HCI_AGENT (3181894) Clicked
+2024-03-14 13:20:40,952 - INFO - Renamed file report_aea572d8-18e4-40d6-9292-916334ba972e.xls to: JCI_HCI_AGENT (3181894)_03_13_2024.xls
+2024-03-14 13:20:40,952 - INFO - Generated Successfully
+2024-03-14 13:20:40,953 - INFO - Downloading Successfully
+
+2024-03-14 13:20:41,015 - INFO - Quick Connect Clicked
+2024-03-14 13:20:41,054 - INFO - Service Format BN_HCI_AGENT (3176615) Clicked
+2024-03-14 13:20:46,466 - INFO - Renamed file report_02e2e93e-1269-4041-87cf-76d24c0146e0.xls to: BN_HCI_AGENT (3176615)_03_13_2024.xls
+2024-03-14 13:20:46,467 - INFO - Generated Successfully
+2024-03-14 13:20:46,467 - INFO - Downloading Successfully
+
+2024-03-14 13:20:46,498 - INFO - Quick Connect Clicked
+2024-03-14 13:20:46,535 - INFO - Service Format AU_HCI_AGENT (3174939) Clicked
+2024-03-14 13:20:51,932 - INFO - Renamed file report_d9b9d6e1-6bb1-4e99-8ab7-4d3670540582.xls to: AU_HCI_AGENT (3174939)_03_13_2024.xls
+2024-03-14 13:20:51,932 - INFO - Generated Successfully
+2024-03-14 13:20:51,932 - INFO - Downloading Successfully
+
+2024-03-14 13:20:51,992 - INFO - Quick Connect Clicked
+2024-03-14 13:20:52,037 - INFO - Service Format DS_HCI_AGENT (3173370) Clicked
+2024-03-14 13:20:57,401 - INFO - Renamed file report_f220b6b9-e61b-4b8d-a43f-466bb21d4dce.xls to: DS_HCI_AGENT (3173370)_03_13_2024.xls
+2024-03-14 13:20:57,401 - INFO - Generated Successfully
+2024-03-14 13:20:57,401 - INFO - Downloading Successfully
+
+2024-03-14 13:20:57,457 - INFO - Quick Connect Clicked
+2024-03-14 13:20:57,498 - INFO - Service Format FEDEX_HCI_AGENT (3175378) Clicked
+2024-03-14 13:21:02,965 - INFO - Renamed file report_a1e572ce-818b-43f2-868c-f29669edff49.xls to: FEDEX_HCI_AGENT (3175378)_03_13_2024.xls
+2024-03-14 13:21:02,965 - INFO - Generated Successfully
+2024-03-14 13:21:02,965 - INFO - Downloading Successfully
+
+2024-03-14 13:21:03,027 - INFO - Quick Connect Clicked
+2024-03-14 13:21:03,071 - INFO - Service Format LB1_HCI_AGENT (3183640) Clicked
+2024-03-14 13:21:21,704 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-14 13:21:23,711 - INFO - Generated Successfully
+2024-03-14 13:21:23,711 - INFO - Downloading Successfully
+
+2024-03-14 13:21:23,775 - INFO - Quick Connect Clicked
+2024-03-14 13:21:23,819 - INFO - Service Format LB2_HCI_AGENT (3174416) Clicked
+2024-03-14 13:21:42,343 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-14 13:21:44,348 - INFO - Generated Successfully
+2024-03-14 13:21:44,348 - INFO - Downloading Successfully
+
+2024-03-14 13:21:44,378 - INFO - Quick Connect Clicked
+2024-03-14 13:21:44,429 - INFO - Service Format SW_HCI_AGENT (3174210) Clicked
+2024-03-14 13:22:03,025 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-14 13:22:05,028 - INFO - Generated Successfully
+2024-03-14 13:22:05,028 - INFO - Downloading Successfully
+
+2024-03-14 13:22:05,091 - INFO - Quick Connect Clicked
+2024-03-14 13:22:05,134 - INFO - Service Format LARGE_BAL_HCI_AGENT (3179837) Clicked
+2024-03-14 13:22:23,787 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-14 13:22:25,790 - INFO - Generated Successfully
+2024-03-14 13:22:25,790 - INFO - Downloading Successfully
+
+2024-03-14 13:22:25,852 - INFO - Quick Connect Clicked
+2024-03-14 13:22:25,896 - INFO - Service Format PRIMO_HCI_AGENT (3177881) Clicked
+2024-03-14 13:22:44,388 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-14 13:22:46,394 - INFO - Generated Successfully
+2024-03-14 13:22:46,395 - INFO - Downloading Successfully
+
+2024-03-14 13:22:46,455 - INFO - Quick Connect Clicked
+2024-03-14 13:22:46,498 - INFO - Service Format SMALL_BAL_HCI_AGENT (3179861) Clicked
+2024-03-14 13:22:52,119 - INFO - Renamed file report_65bcdf97-a8f1-46de-b3db-b1d8d140f76e.xls to: SMALL_BAL_HCI_AGENT (3179861)_03_13_2024.xls
+2024-03-14 13:22:52,119 - INFO - Generated Successfully
+2024-03-14 13:22:52,119 - INFO - Downloading Successfully
+
+2024-03-14 13:22:52,178 - INFO - Quick Connect Clicked
+2024-03-14 13:22:52,218 - INFO - Service Format DELL_HCI_AGENT (3184975) Clicked
+2024-03-14 13:22:57,616 - INFO - Renamed file report_62b35ce8-a258-4b41-9c5c-3e6f93c336d2.xls to: DELL_HCI_AGENT (3184975)_03_13_2024.xls
+2024-03-14 13:22:57,616 - INFO - Generated Successfully
+2024-03-14 13:22:57,616 - INFO - Downloading Successfully
+
+2024-03-14 13:22:57,675 - INFO - Quick Connect Clicked
+2024-03-14 13:22:57,726 - INFO - Service Format USS_HCI_AGENT (3178530) Clicked
+2024-03-14 13:23:03,256 - INFO - Renamed file report_88ba21f4-125e-4735-8b66-3665ebdf5904.xls to: USS_HCI_AGENT (3178530)_03_13_2024.xls
+2024-03-14 13:23:03,256 - INFO - Generated Successfully
+2024-03-14 13:23:03,256 - INFO - Downloading Successfully
+
+2024-03-14 13:23:05,287 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_13_2024.xls
+2024-03-14 13:23:05,295 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_13_2024.xls
+2024-03-14 13:23:05,311 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_13_2024.xls
+2024-03-14 13:23:05,313 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_13_2024.xls
+2024-03-14 13:23:05,315 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_13_2024.xls
+2024-03-14 13:23:05,317 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_13_2024.xls
+2024-03-14 13:23:05,319 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_13_2024.xls
+2024-03-14 13:23:05,322 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_13_2024.xls
+2024-03-14 13:23:05,323 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_13_2024.xls
+2024-03-14 13:23:05,326 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_13_2024.xls
+2024-03-14 13:23:05,345 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-13-2024.xlsx
+2024-03-14 13:23:05,353 - INFO - Saved Total row as Overall Average Ready Time - 03-13-2024.xlsx
+2024-03-14 13:23:05,648 - INFO - Average Ready Time Data appended successfully.
+2024-03-14 13:23:05,648 - ERROR - Exception: expected str, bytes or os.PathLike object, not NoneType
+2024-03-14 13:23:05,652 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_13_2024.xls
+2024-03-14 13:23:05,652 - INFO - /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_13_2024.xls
+2024-03-14 13:23:05,652 - INFO - /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_13_2024.xls
+2024-03-14 13:23:05,652 - INFO - /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_13_2024.xls
+2024-03-14 13:23:05,652 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_13_2024.xls
+2024-03-14 13:23:05,652 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_13_2024.xls
+2024-03-14 13:23:05,652 - INFO - /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_13_2024.xls
+2024-03-14 13:23:05,652 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_13_2024.xls
+2024-03-14 13:23:05,653 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_13_2024.xls removed.
+2024-03-14 13:23:05,653 - INFO - /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_13_2024.xls removed.
+2024-03-14 13:23:05,653 - INFO - /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_13_2024.xls removed.
+2024-03-14 13:23:05,653 - INFO - /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_13_2024.xls removed.
+2024-03-14 13:23:05,653 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_13_2024.xls removed.
+2024-03-14 13:23:05,653 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_13_2024.xls removed.
+2024-03-14 13:23:05,653 - INFO - /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_13_2024.xls removed.
+2024-03-14 13:23:05,653 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_13_2024.xls removed.
+2024-03-14 13:23:05,653 - INFO - Done
+2024-03-14 13:23:05,653 - INFO - ---------------------------------------------------
+
+
+2024-03-15 13:15:00,691 - INFO - NumExpr defaulting to 8 threads.
+2024-03-15 13:15:01,213 - INFO - Moved file to: /Volumes/Samsung 970 EVO/Documents/Python/livevox_hci_summary/history/Overall Average Ready Time - 03-13-2024.xlsx
+2024-03-15 13:15:04,241 - INFO - User Added
+2024-03-15 13:15:04,281 - INFO - Password Added
+2024-03-15 13:15:05,859 - INFO - Next Clicked
+2024-03-15 13:15:07,990 - INFO - Review Clicked
+2024-03-15 13:15:08,035 - INFO - Agent Reports Clicked
+2024-03-15 13:15:08,087 - INFO - Agent Summary Report Clicked
+2024-03-15 13:15:08,624 - INFO - Current Date String: 03/15/2024
+2024-03-15 13:15:08,625 - INFO - Current Date: 2024-03-15 Today:, 2024-03-15
+2024-03-15 13:15:08,625 - INFO - Dates match
+2024-03-15 13:15:08,752 - INFO - SET 03/14/2024
+2024-03-15 13:15:08,765 - INFO - Current Date String: 03/15/2024
+2024-03-15 13:15:08,765 - INFO - Current Date: 2024-03-15 Today:, 2024-03-15
+2024-03-15 13:15:08,765 - INFO - Dates match
+2024-03-15 13:15:08,860 - INFO - SET 03/14/2024
+2024-03-15 13:15:08,914 - INFO - Quick Connect Clicked
+2024-03-15 13:15:08,959 - INFO - Service Format JCI_HCI_AGENT (3181894) Clicked
+2024-03-15 13:15:14,676 - INFO - Renamed file report_49870188-0ea0-4c94-9208-ee3407211d27.xls to: JCI_HCI_AGENT (3181894)_03_14_2024.xls
+2024-03-15 13:15:14,676 - INFO - Generated Successfully
+2024-03-15 13:15:14,676 - INFO - Downloading Successfully
+
+2024-03-15 13:15:14,740 - INFO - Quick Connect Clicked
+2024-03-15 13:15:14,781 - INFO - Service Format BN_HCI_AGENT (3176615) Clicked
+2024-03-15 13:15:20,289 - INFO - Renamed file report_24b6b476-e4c5-4788-9f64-3b77477f2576.xls to: BN_HCI_AGENT (3176615)_03_14_2024.xls
+2024-03-15 13:15:20,290 - INFO - Generated Successfully
+2024-03-15 13:15:20,290 - INFO - Downloading Successfully
+
+2024-03-15 13:15:20,350 - INFO - Quick Connect Clicked
+2024-03-15 13:15:20,391 - INFO - Service Format AU_HCI_AGENT (3174939) Clicked
+2024-03-15 13:15:38,989 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-15 13:15:40,990 - INFO - Generated Successfully
+2024-03-15 13:15:40,991 - INFO - Downloading Successfully
+
+2024-03-15 13:15:41,052 - INFO - Quick Connect Clicked
+2024-03-15 13:15:41,097 - INFO - Service Format DS_HCI_AGENT (3173370) Clicked
+2024-03-15 13:15:46,528 - INFO - Renamed file report_74c19e5b-d095-4133-ba2f-59453681615a.xls to: DS_HCI_AGENT (3173370)_03_14_2024.xls
+2024-03-15 13:15:46,528 - INFO - Generated Successfully
+2024-03-15 13:15:46,528 - INFO - Downloading Successfully
+
+2024-03-15 13:15:46,587 - INFO - Quick Connect Clicked
+2024-03-15 13:15:46,629 - INFO - Service Format FEDEX_HCI_AGENT (3175378) Clicked
+2024-03-15 13:15:52,138 - INFO - Renamed file report_a6e77c1e-3fac-4df9-bb6e-a8a0122a650e.xls to: FEDEX_HCI_AGENT (3175378)_03_14_2024.xls
+2024-03-15 13:15:52,138 - INFO - Generated Successfully
+2024-03-15 13:15:52,138 - INFO - Downloading Successfully
+
+2024-03-15 13:15:52,199 - INFO - Quick Connect Clicked
+2024-03-15 13:15:52,244 - INFO - Service Format LB1_HCI_AGENT (3183640) Clicked
+2024-03-15 13:16:10,879 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-15 13:16:12,883 - INFO - Generated Successfully
+2024-03-15 13:16:12,883 - INFO - Downloading Successfully
+
+2024-03-15 13:16:12,947 - INFO - Quick Connect Clicked
+2024-03-15 13:16:12,996 - INFO - Service Format LB2_HCI_AGENT (3174416) Clicked
+2024-03-15 13:16:31,603 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-15 13:16:33,605 - INFO - Generated Successfully
+2024-03-15 13:16:33,605 - INFO - Downloading Successfully
+
+2024-03-15 13:16:33,667 - INFO - Quick Connect Clicked
+2024-03-15 13:16:33,723 - INFO - Service Format SW_HCI_AGENT (3174210) Clicked
+2024-03-15 13:16:51,919 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-15 13:16:53,926 - INFO - Generated Successfully
+2024-03-15 13:16:53,926 - INFO - Downloading Successfully
+
+2024-03-15 13:16:53,987 - INFO - Quick Connect Clicked
+2024-03-15 13:16:54,038 - INFO - Service Format LARGE_BAL_HCI_AGENT (3179837) Clicked
+2024-03-15 13:17:12,299 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-15 13:17:14,310 - INFO - Generated Successfully
+2024-03-15 13:17:14,310 - INFO - Downloading Successfully
+
+2024-03-15 13:17:14,379 - INFO - Quick Connect Clicked
+2024-03-15 13:17:14,421 - INFO - Service Format PRIMO_HCI_AGENT (3177881) Clicked
+2024-03-15 13:17:32,700 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-15 13:17:34,712 - INFO - Generated Successfully
+2024-03-15 13:17:34,712 - INFO - Downloading Successfully
+
+2024-03-15 13:17:34,775 - INFO - Quick Connect Clicked
+2024-03-15 13:17:34,826 - INFO - Service Format SMALL_BAL_HCI_AGENT (3179861) Clicked
+2024-03-15 13:17:40,355 - INFO - Renamed file report_28fa1d13-42cc-4a95-ab60-524dca14df55.xls to: SMALL_BAL_HCI_AGENT (3179861)_03_14_2024.xls
+2024-03-15 13:17:40,356 - INFO - Generated Successfully
+2024-03-15 13:17:40,356 - INFO - Downloading Successfully
+
+2024-03-15 13:17:40,410 - INFO - Quick Connect Clicked
+2024-03-15 13:17:40,449 - INFO - Service Format DELL_HCI_AGENT (3184975) Clicked
+2024-03-15 13:17:45,871 - INFO - Renamed file report_06f7ae92-dca1-4ceb-a5f2-f5909984d79b.xls to: DELL_HCI_AGENT (3184975)_03_14_2024.xls
+2024-03-15 13:17:45,871 - INFO - Generated Successfully
+2024-03-15 13:17:45,871 - INFO - Downloading Successfully
+
+2024-03-15 13:17:45,929 - INFO - Quick Connect Clicked
+2024-03-15 13:17:45,969 - INFO - Service Format USS_HCI_AGENT (3178530) Clicked
+2024-03-15 13:17:51,516 - INFO - Renamed file report_fed7897f-5ed1-4155-aacb-de66c640a6af.xls to: USS_HCI_AGENT (3178530)_03_14_2024.xls
+2024-03-15 13:17:51,516 - INFO - Generated Successfully
+2024-03-15 13:17:51,516 - INFO - Downloading Successfully
+
+2024-03-15 13:17:53,551 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_14_2024.xls
+2024-03-15 13:17:53,576 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_14_2024.xls
+2024-03-15 13:17:53,578 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_14_2024.xls
+2024-03-15 13:17:53,581 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_14_2024.xls
+2024-03-15 13:17:53,583 - INFO - Loaded files: /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_14_2024.xls
+2024-03-15 13:17:53,585 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_14_2024.xls
+2024-03-15 13:17:53,586 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_14_2024.xls
+2024-03-15 13:17:53,588 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_14_2024.xls
+2024-03-15 13:17:53,609 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-14-2024.xlsx
+2024-03-15 13:17:53,614 - INFO - Saved Total row as Overall Average Ready Time - 03-14-2024.xlsx
+2024-03-15 13:17:53,880 - INFO - Average Ready Time Data appended successfully.
+2024-03-15 13:17:53,880 - ERROR - Exception: expected str, bytes or os.PathLike object, not NoneType
+2024-03-15 13:17:53,884 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_14_2024.xls
+2024-03-15 13:17:53,884 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_14_2024.xls
+2024-03-15 13:17:53,884 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_14_2024.xls
+2024-03-15 13:17:53,884 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_14_2024.xls
+2024-03-15 13:17:53,884 - INFO - /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_14_2024.xls
+2024-03-15 13:17:53,884 - INFO - /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_14_2024.xls
+2024-03-15 13:17:53,884 - INFO - /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_14_2024.xls
+2024-03-15 13:17:53,884 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_14_2024.xls removed.
+2024-03-15 13:17:53,884 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_14_2024.xls removed.
+2024-03-15 13:17:53,884 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_14_2024.xls removed.
+2024-03-15 13:17:53,884 - INFO - /Users/cosmint/Downloads/JCI_HCI_AGENT (3181894)_03_14_2024.xls removed.
+2024-03-15 13:17:53,884 - INFO - /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_14_2024.xls removed.
+2024-03-15 13:17:53,885 - INFO - /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_14_2024.xls removed.
+2024-03-15 13:17:53,885 - INFO - /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_14_2024.xls removed.
+2024-03-15 13:17:53,885 - INFO - Done
+2024-03-15 13:17:53,885 - INFO - ---------------------------------------------------
+
+
+2024-03-16 13:15:02,519 - INFO - NumExpr defaulting to 8 threads.
+2024-03-16 13:15:03,011 - INFO - Moved file to: /Volumes/Samsung 970 EVO/Documents/Python/livevox_hci_summary/history/Overall Average Ready Time - 03-14-2024.xlsx
+2024-03-16 13:15:05,783 - INFO - User Added
+2024-03-16 13:15:05,819 - INFO - Password Added
+2024-03-16 13:15:07,215 - INFO - Next Clicked
+2024-03-16 13:15:09,297 - INFO - Review Clicked
+2024-03-16 13:15:09,344 - INFO - Agent Reports Clicked
+2024-03-16 13:15:09,390 - INFO - Agent Summary Report Clicked
+2024-03-16 13:15:09,926 - INFO - Current Date String: 03/16/2024
+2024-03-16 13:15:09,926 - INFO - Current Date: 2024-03-16 Today:, 2024-03-16
+2024-03-16 13:15:09,926 - INFO - Dates match
+2024-03-16 13:15:10,044 - INFO - SET 03/15/2024
+2024-03-16 13:15:10,057 - INFO - Current Date String: 03/16/2024
+2024-03-16 13:15:10,057 - INFO - Current Date: 2024-03-16 Today:, 2024-03-16
+2024-03-16 13:15:10,057 - INFO - Dates match
+2024-03-16 13:15:10,146 - INFO - SET 03/15/2024
+2024-03-16 13:15:10,189 - INFO - Quick Connect Clicked
+2024-03-16 13:15:10,234 - INFO - Service Format JCI_HCI_AGENT (3181894) Clicked
+2024-03-16 13:15:28,867 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-16 13:15:30,918 - INFO - Generated Successfully
+2024-03-16 13:15:30,918 - INFO - Downloading Successfully
+
+2024-03-16 13:15:30,983 - INFO - Quick Connect Clicked
+2024-03-16 13:15:31,035 - INFO - Service Format BN_HCI_AGENT (3176615) Clicked
+2024-03-16 13:15:36,532 - INFO - Renamed file report_7cf05c75-cff9-43e4-8027-b0f3ce4985fd.xls to: BN_HCI_AGENT (3176615)_03_15_2024.xls
+2024-03-16 13:15:36,533 - INFO - Generated Successfully
+2024-03-16 13:15:36,533 - INFO - Downloading Successfully
+
+2024-03-16 13:15:36,594 - INFO - Quick Connect Clicked
+2024-03-16 13:15:36,635 - INFO - Service Format AU_HCI_AGENT (3174939) Clicked
+2024-03-16 13:15:42,371 - INFO - Renamed file report_c779285d-fef1-4055-a2d4-f4a37e567d06.xls to: AU_HCI_AGENT (3174939)_03_15_2024.xls
+2024-03-16 13:15:42,372 - INFO - Generated Successfully
+2024-03-16 13:15:42,372 - INFO - Downloading Successfully
+
+2024-03-16 13:15:42,434 - INFO - Quick Connect Clicked
+2024-03-16 13:15:42,477 - INFO - Service Format DS_HCI_AGENT (3173370) Clicked
+2024-03-16 13:15:47,849 - INFO - Renamed file report_33ec4834-d3e8-45a1-b966-f90c6febbdc5.xls to: DS_HCI_AGENT (3173370)_03_15_2024.xls
+2024-03-16 13:15:47,849 - INFO - Generated Successfully
+2024-03-16 13:15:47,850 - INFO - Downloading Successfully
+
+2024-03-16 13:15:47,911 - INFO - Quick Connect Clicked
+2024-03-16 13:15:47,956 - INFO - Service Format FEDEX_HCI_AGENT (3175378) Clicked
+2024-03-16 13:15:53,422 - INFO - Renamed file report_71d8e82b-2c7c-4ab4-a97f-df5f9977f3c1.xls to: FEDEX_HCI_AGENT (3175378)_03_15_2024.xls
+2024-03-16 13:15:53,422 - INFO - Generated Successfully
+2024-03-16 13:15:53,423 - INFO - Downloading Successfully
+
+2024-03-16 13:15:53,482 - INFO - Quick Connect Clicked
+2024-03-16 13:15:53,527 - INFO - Service Format LB1_HCI_AGENT (3183640) Clicked
+2024-03-16 13:16:12,144 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-16 13:16:14,149 - INFO - Generated Successfully
+2024-03-16 13:16:14,149 - INFO - Downloading Successfully
+
+2024-03-16 13:16:14,212 - INFO - Quick Connect Clicked
+2024-03-16 13:16:14,263 - INFO - Service Format LB2_HCI_AGENT (3174416) Clicked
+2024-03-16 13:16:32,884 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-16 13:16:34,886 - INFO - Generated Successfully
+2024-03-16 13:16:34,886 - INFO - Downloading Successfully
+
+2024-03-16 13:16:34,947 - INFO - Quick Connect Clicked
+2024-03-16 13:16:34,999 - INFO - Service Format SW_HCI_AGENT (3174210) Clicked
+2024-03-16 13:16:40,664 - INFO - Renamed file report_812eb84d-b8ee-4445-8de6-c4e897652ead.xls to: SW_HCI_AGENT (3174210)_03_15_2024.xls
+2024-03-16 13:16:40,664 - INFO - Generated Successfully
+2024-03-16 13:16:40,664 - INFO - Downloading Successfully
+
+2024-03-16 13:16:40,721 - INFO - Quick Connect Clicked
+2024-03-16 13:16:40,763 - INFO - Service Format LARGE_BAL_HCI_AGENT (3179837) Clicked
+2024-03-16 13:16:59,433 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-16 13:17:01,440 - INFO - Generated Successfully
+2024-03-16 13:17:01,441 - INFO - Downloading Successfully
+
+2024-03-16 13:17:01,506 - INFO - Quick Connect Clicked
+2024-03-16 13:17:01,560 - INFO - Service Format PRIMO_HCI_AGENT (3177881) Clicked
+2024-03-16 13:17:20,219 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-16 13:17:22,225 - INFO - Generated Successfully
+2024-03-16 13:17:22,226 - INFO - Downloading Successfully
+
+2024-03-16 13:17:22,264 - INFO - Quick Connect Clicked
+2024-03-16 13:17:22,303 - INFO - Service Format SMALL_BAL_HCI_AGENT (3179861) Clicked
+2024-03-16 13:17:27,714 - INFO - Renamed file report_2e73d6c6-77ba-4c2c-a6b7-21aabb1516f1.xls to: SMALL_BAL_HCI_AGENT (3179861)_03_15_2024.xls
+2024-03-16 13:17:27,714 - INFO - Generated Successfully
+2024-03-16 13:17:27,714 - INFO - Downloading Successfully
+
+2024-03-16 13:17:27,774 - INFO - Quick Connect Clicked
+2024-03-16 13:17:27,815 - INFO - Service Format DELL_HCI_AGENT (3184975) Clicked
+2024-03-16 13:17:33,195 - INFO - Renamed file report_855b6fe9-8758-4886-b33e-f375371cde19.xls to: DELL_HCI_AGENT (3184975)_03_15_2024.xls
+2024-03-16 13:17:33,196 - INFO - Generated Successfully
+2024-03-16 13:17:33,196 - INFO - Downloading Successfully
+
+2024-03-16 13:17:33,253 - INFO - Quick Connect Clicked
+2024-03-16 13:17:33,295 - INFO - Service Format USS_HCI_AGENT (3178530) Clicked
+2024-03-16 13:17:38,708 - INFO - Renamed file report_60f901a7-3b78-48d7-bebb-fc3762a69c94.xls to: USS_HCI_AGENT (3178530)_03_15_2024.xls
+2024-03-16 13:17:38,708 - INFO - Generated Successfully
+2024-03-16 13:17:38,708 - INFO - Downloading Successfully
+
+2024-03-16 13:17:40,740 - INFO - /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_15_2024.xls
+2024-03-16 13:17:40,758 - INFO - Loaded files: /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_15_2024.xls
+2024-03-16 13:17:40,760 - INFO - Loaded files: /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_15_2024.xls
+2024-03-16 13:17:40,763 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_15_2024.xls
+2024-03-16 13:17:40,765 - INFO - Loaded files: /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_15_2024.xls
+2024-03-16 13:17:40,767 - INFO - Loaded files: /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_15_2024.xls
+2024-03-16 13:17:40,769 - INFO - Loaded files: /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_15_2024.xls
+2024-03-16 13:17:40,771 - INFO - Loaded files: /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_15_2024.xls
+2024-03-16 13:17:40,774 - INFO - Loaded files: /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_15_2024.xls
+2024-03-16 13:17:40,792 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-15-2024.xlsx
+2024-03-16 13:17:40,796 - INFO - Saved Total row as Overall Average Ready Time - 03-15-2024.xlsx
+2024-03-16 13:17:41,060 - INFO - Average Ready Time Data appended successfully.
+2024-03-16 13:17:41,060 - ERROR - Exception: expected str, bytes or os.PathLike object, not NoneType
+2024-03-16 13:17:41,064 - INFO - /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_15_2024.xls
+2024-03-16 13:17:41,064 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_15_2024.xls
+2024-03-16 13:17:41,064 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_15_2024.xls
+2024-03-16 13:17:41,064 - INFO - /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_15_2024.xls
+2024-03-16 13:17:41,064 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_15_2024.xls
+2024-03-16 13:17:41,064 - INFO - /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_15_2024.xls
+2024-03-16 13:17:41,064 - INFO - /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_15_2024.xls
+2024-03-16 13:17:41,064 - INFO - /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_15_2024.xls
+2024-03-16 13:17:41,064 - INFO - /Users/cosmint/Downloads/SW_HCI_AGENT (3174210)_03_15_2024.xls removed.
+2024-03-16 13:17:41,064 - INFO - /Users/cosmint/Downloads/USS_HCI_AGENT (3178530)_03_15_2024.xls removed.
+2024-03-16 13:17:41,064 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_15_2024.xls removed.
+2024-03-16 13:17:41,064 - INFO - /Users/cosmint/Downloads/AU_HCI_AGENT (3174939)_03_15_2024.xls removed.
+2024-03-16 13:17:41,065 - INFO - /Users/cosmint/Downloads/BN_HCI_AGENT (3176615)_03_15_2024.xls removed.
+2024-03-16 13:17:41,065 - INFO - /Users/cosmint/Downloads/FEDEX_HCI_AGENT (3175378)_03_15_2024.xls removed.
+2024-03-16 13:17:41,065 - INFO - /Users/cosmint/Downloads/SMALL_BAL_HCI_AGENT (3179861)_03_15_2024.xls removed.
+2024-03-16 13:17:41,065 - INFO - /Users/cosmint/Downloads/DELL_HCI_AGENT (3184975)_03_15_2024.xls removed.
+2024-03-16 13:17:41,065 - INFO - Done
+2024-03-16 13:17:41,065 - INFO - ---------------------------------------------------
+
+
+2024-03-18 13:57:24,199 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12e2dec10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:24,200 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12e6fa790>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:24,201 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12e6fb210>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:24,202 - ERROR - Error: HTTPConnectionPool(host='localhost', port=50376): Max retries exceeded with url: /session/6e1b1bf09f6da6cc5657ce8b302840c6/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12e6fbcd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2024-03-18 13:57:24,202 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea04910>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:24,203 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea05490>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:24,204 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea06090>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:24,205 - ERROR - Error: HTTPConnectionPool(host='localhost', port=50376): Max retries exceeded with url: /session/6e1b1bf09f6da6cc5657ce8b302840c6/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea06d10>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2024-03-18 13:57:24,206 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea07bd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:24,206 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea08850>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:24,207 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea094d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:24,207 - ERROR - Error: HTTPConnectionPool(host='localhost', port=50376): Max retries exceeded with url: /session/6e1b1bf09f6da6cc5657ce8b302840c6/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea0a190>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2024-03-18 13:57:24,208 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea0b050>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:24,208 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea0bc90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:24,209 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea1c950>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:24,209 - ERROR - Error: HTTPConnectionPool(host='localhost', port=50376): Max retries exceeded with url: /session/6e1b1bf09f6da6cc5657ce8b302840c6/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea1d5d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2024-03-18 13:57:24,210 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea0a2d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:24,211 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea09390>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:24,211 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea08610>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:24,212 - ERROR - Error: HTTPConnectionPool(host='localhost', port=50376): Max retries exceeded with url: /session/6e1b1bf09f6da6cc5657ce8b302840c6/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea07a90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2024-03-18 13:57:25,218 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea07050>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:25,219 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea05890>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:25,220 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea05350>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:25,221 - ERROR - Error: HTTPConnectionPool(host='localhost', port=50376): Max retries exceeded with url: /session/6e1b1bf09f6da6cc5657ce8b302840c6/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12e6f8c90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2024-03-18 13:57:25,222 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea1e6d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:25,223 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea1f290>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:25,224 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea1fe50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6e1b1bf09f6da6cc5657ce8b302840c6/element
+2024-03-18 13:57:25,225 - ERROR - Error: HTTPConnectionPool(host='localhost', port=50376): Max retries exceeded with url: /session/6e1b1bf09f6da6cc5657ce8b302840c6/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12ea2ca50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2024-03-18 13:57:54,769 - INFO - NumExpr defaulting to 8 threads.
+2024-03-18 13:57:57,899 - INFO - User Added
+2024-03-18 13:57:57,935 - INFO - Password Added
+2024-03-18 13:57:59,346 - INFO - Next Clicked
+2024-03-18 13:58:00,453 - INFO - Review Clicked
+2024-03-18 13:58:00,502 - INFO - Agent Reports Clicked
+2024-03-18 13:58:00,550 - INFO - Agent Summary Report Clicked
+2024-03-18 13:58:01,089 - INFO - Current Date String: 03/18/2024
+2024-03-18 13:58:01,090 - INFO - Current Date: 2024-03-18 Today:, 2024-03-18
+2024-03-18 13:58:01,090 - INFO - Dates match
+2024-03-18 13:58:01,208 - INFO - SET 03/17/2024
+2024-03-18 13:58:01,221 - INFO - Current Date String: 03/18/2024
+2024-03-18 13:58:01,221 - INFO - Current Date: 2024-03-18 Today:, 2024-03-18
+2024-03-18 13:58:01,221 - INFO - Dates match
+2024-03-18 13:58:01,313 - INFO - SET 03/17/2024
+2024-03-18 13:58:01,364 - INFO - Quick Connect Clicked
+2024-03-18 13:58:01,410 - INFO - Service Format JCI_HCI_AGENT (3181894) Clicked
+2024-03-18 13:58:19,993 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-18 13:58:21,995 - INFO - Generated Successfully
+2024-03-18 13:58:21,995 - INFO - Downloading Successfully
+
+2024-03-18 13:58:22,059 - INFO - Quick Connect Clicked
+2024-03-18 13:58:22,102 - INFO - Service Format BN_HCI_AGENT (3176615) Clicked
+2024-03-18 13:58:40,697 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-18 13:58:42,704 - INFO - Generated Successfully
+2024-03-18 13:58:42,704 - INFO - Downloading Successfully
+
+2024-03-18 13:58:42,767 - INFO - Quick Connect Clicked
+2024-03-18 13:58:42,811 - INFO - Service Format AU_HCI_AGENT (3174939) Clicked
+2024-03-18 13:59:01,428 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-18 13:59:03,434 - INFO - Generated Successfully
+2024-03-18 13:59:03,434 - INFO - Downloading Successfully
+
+2024-03-18 13:59:03,467 - INFO - Quick Connect Clicked
+2024-03-18 13:59:03,524 - INFO - Service Format DS_HCI_AGENT (3173370) Clicked
+2024-03-18 13:59:09,555 - INFO - Renamed file report_cce329f6-05a2-4525-9b52-912bd8a7ed82.xls to: DS_HCI_AGENT (3173370)_03_17_2024.xls
+2024-03-18 13:59:09,555 - INFO - Generated Successfully
+2024-03-18 13:59:09,555 - INFO - Downloading Successfully
+
+2024-03-18 13:59:09,602 - INFO - Quick Connect Clicked
+2024-03-18 13:59:09,648 - INFO - Service Format FEDEX_HCI_AGENT (3175378) Clicked
+2024-03-18 13:59:28,299 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-18 13:59:30,303 - INFO - Generated Successfully
+2024-03-18 13:59:30,303 - INFO - Downloading Successfully
+
+2024-03-18 13:59:30,360 - INFO - Quick Connect Clicked
+2024-03-18 13:59:30,417 - INFO - Service Format LB1_HCI_AGENT (3183640) Clicked
+2024-03-18 13:59:49,048 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-18 13:59:51,052 - INFO - Generated Successfully
+2024-03-18 13:59:51,053 - INFO - Downloading Successfully
+
+2024-03-18 13:59:51,114 - INFO - Quick Connect Clicked
+2024-03-18 13:59:51,154 - INFO - Service Format LB2_HCI_AGENT (3174416) Clicked
+2024-03-18 14:00:09,794 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-18 14:00:11,796 - INFO - Generated Successfully
+2024-03-18 14:00:11,797 - INFO - Downloading Successfully
+
+2024-03-18 14:00:11,859 - INFO - Quick Connect Clicked
+2024-03-18 14:00:11,914 - INFO - Service Format SW_HCI_AGENT (3174210) Clicked
+2024-03-18 14:00:30,547 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-18 14:00:32,552 - INFO - Generated Successfully
+2024-03-18 14:00:32,552 - INFO - Downloading Successfully
+
+2024-03-18 14:00:32,613 - INFO - Quick Connect Clicked
+2024-03-18 14:00:32,676 - INFO - Service Format LARGE_BAL_HCI_AGENT (3179837) Clicked
+2024-03-18 14:00:51,283 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-18 14:00:53,287 - INFO - Generated Successfully
+2024-03-18 14:00:53,287 - INFO - Downloading Successfully
+
+2024-03-18 14:00:53,347 - INFO - Quick Connect Clicked
+2024-03-18 14:00:53,397 - INFO - Service Format PRIMO_HCI_AGENT (3177881) Clicked
+2024-03-18 14:01:12,025 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-18 14:01:14,031 - INFO - Generated Successfully
+2024-03-18 14:01:14,032 - INFO - Downloading Successfully
+
+2024-03-18 14:01:14,091 - INFO - Quick Connect Clicked
+2024-03-18 14:01:14,144 - INFO - Service Format SMALL_BAL_HCI_AGENT (3179861) Clicked
+2024-03-18 14:01:32,776 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-18 14:01:34,778 - INFO - Generated Successfully
+2024-03-18 14:01:34,778 - INFO - Downloading Successfully
+
+2024-03-18 14:01:34,839 - INFO - Quick Connect Clicked
+2024-03-18 14:01:34,890 - INFO - Service Format DELL_HCI_AGENT (3184975) Clicked
+2024-03-18 14:01:53,498 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-18 14:01:55,501 - INFO - Generated Successfully
+2024-03-18 14:01:55,501 - INFO - Downloading Successfully
+
+2024-03-18 14:01:55,561 - INFO - Quick Connect Clicked
+2024-03-18 14:01:55,603 - INFO - Service Format USS_HCI_AGENT (3178530) Clicked
+2024-03-18 14:02:14,225 - WARNING - Export dropdown element not found or button is greyed out
+2024-03-18 14:02:16,230 - INFO - Generated Successfully
+2024-03-18 14:02:16,231 - INFO - Downloading Successfully
+
+2024-03-18 14:02:18,261 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_17_2024.xls
+2024-03-18 14:02:18,284 - INFO - Loaded files: /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_17_2024.xls
+2024-03-18 14:02:18,305 - INFO - Cleared sheet 1 in file: Overall Average Ready Time - 03-17-2024.xlsx
+2024-03-18 14:02:18,310 - INFO - Saved Total row as Overall Average Ready Time - 03-17-2024.xlsx
+2024-03-18 14:02:18,530 - INFO - Average Ready Time Data appended successfully.
+2024-03-18 14:02:18,530 - ERROR - Exception: expected str, bytes or os.PathLike object, not NoneType
+2024-03-18 14:02:18,535 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_17_2024.xls
+2024-03-18 14:02:18,535 - INFO - /Users/cosmint/Downloads/DS_HCI_AGENT (3173370)_03_17_2024.xls removed.
+2024-03-18 14:02:18,535 - INFO - Done
+2024-03-18 14:02:18,535 - INFO - ---------------------------------------------------
+
+

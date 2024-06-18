@@ -12,6 +12,7 @@ from openpyxl import Workbook
 from openpyxl.drawing.image import Image
 from openpyxl.utils import get_column_letter
 import numpy as np
+import re
 
 conf_log()
 
@@ -35,6 +36,13 @@ def clear_sheet(file_name):
     except Exception as e:
         logging.error(f'Error clearing sheet 1 in file {file_name}: {e}')
 
+def generate_service_name(file):
+    match = re.search(r'(\w+)_([A-Za-z0-9]+)_([A-Za-z0-9]+)', os.path.basename(file))
+    if match:
+        return '_'.join(match.groups())
+    else:
+        return os.path.basename(file)
+
 def append_files(directory, file_name):
     today = datetime.now()
     yesterday = today - timedelta(days=1)
@@ -49,9 +57,8 @@ def append_files(directory, file_name):
     for file in files:
         try:
             file_df = pd.read_excel(file, header=None, names=HEADERS)
-            file_df['Service'] = '_'.join(os.path.basename(file).split('_')[:2])
+            file_df['Service'] = generate_service_name(file)
             dfs.append(file_df)
-
             logging.info(f'Loaded files: {file}')
         except Exception as e:
             logging.error(f'Error reading file {file}: {e}')

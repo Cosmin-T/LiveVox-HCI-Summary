@@ -48,6 +48,7 @@ HCI_AGENT_LIST = (
     'DELL_HCI_AGENT (3184975)',
     'USS_HCI_AGENT (3178530)',
     'DOM_HCI_AGENT_Uline (3186839)',
+    'DOM_HCI_AGENT_SB_Team (3187140)',
 )
 
 
@@ -84,7 +85,7 @@ if matching_files:
         if file_path.endswith(f' - {yesterday_str}.xlsx'):
             FILE_OUTPUT = file_path
             FILE_NAME = os.path.basename(file_path)
-            print(FILE_OUTPUT)
+            print(f'File output: {FILE_OUTPUT}')
             break
 
 RECEIVER_EMAIL = get_key(dotenv_path, 'RECEIVER_EMAIL')

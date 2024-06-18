@@ -27,16 +27,22 @@ def send():
     msg.attach(MIMEText(body, 'plain'))
 
     try:
-        with open(FILE_OUTPUT, 'rb') as f:
-            attachment = MIMEApplication(f.read(), _subtype='txt')
-            attachment.add_header('content-Disposition', 'attachment', filename=FILE_NAME)
-            msg.attach(attachment)
+        if FILE_OUTPUT is not None:
+            with open(FILE_OUTPUT, 'rb') as f:
+                attachment = MIMEApplication(f.read(), _subtype='txt')
+                attachment.add_header('content-Disposition', 'attachment', filename=FILE_NAME)
+                msg.attach(attachment)
+        else:
+            logging.error("FILE_OUTPUT is None, cannot open file.")
+            print("FILE_OUTPUT is None, cannot open file.")
 
         with smtplib.SMTP('smtp.gmail.com', 587) as smtp:
             smtp.starttls()
             smtp.login(SENDER_EMAIL, GMAIL_APP_PASSWORD)
             smtp.send_message(msg)
             logging.info("Email sent successfully!")
+            print("Email sent successfully!")
 
     except Exception as e:
         logging.error(f'Exception: {e}')
+        print(f"Send Email Exception: {e}")

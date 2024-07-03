@@ -31,9 +31,11 @@ def initialize_webdriver(URL):
         # Creating ChromeOptions instance for headless mode
         chrome_options = Options()
         # chrome_options.add_argument('--headless')  # Run Chrome in headless mode
+        chrome_options.binary_location = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
 
         # Creating the Chrome driver instance with the specified options and WebDriver path
-        driver = webdriver.Chrome(executable_path=webdriver_path, options=chrome_options)
+        # driver = webdriver.Chrome(executable_path=webdriver_path, options=chrome_options)
+        driver = webdriver.Chrome(options=chrome_options)
 
         # Setting the size of the Chrome window (not necessary in headless mode)
         driver.set_window_size(1400, 1440)

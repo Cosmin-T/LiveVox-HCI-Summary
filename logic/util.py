@@ -10,6 +10,7 @@ from datetime import datetime, timedelta
 dotenv_path = os.path.join(os.path.dirname(__file__), '.env')
 load_dotenv(dotenv_path)
 
+# login
 CROMEDRIVER_PATH = '/usr/local/bin/chromedriver'
 USER = get_key(dotenv_path, 'USER')
 PASSWORD = get_key(dotenv_path, 'PASSWORD')
@@ -51,7 +52,6 @@ HCI_AGENT_LIST = (
     'DOM_HCI_AGENT_SB_Team (3187140)',
 )
 
-
 # files
 GENERIC_NAME = 'report_' # downloaded name (downloads folder)
 FILE_PATH1 = '/Users/cosmint/Downloads'
@@ -65,9 +65,14 @@ RELEVANT_COLS = ['Date', 'Service', 'Successful Op Transfer', 'In Call (Min)', '
 FINAL_FILE_DIRECTORY = '/Volumes/Samsung 970 EVO/Documents/Python/livevox_hci_summary'
 FINAL_FILE_PREIFX = "Overall Average Ready Time"
 
+# Set the working directory
+working_dir = '/Volumes/Samsung 970 EVO/Documents/Python/livevox_hci_summary'
+os.chdir(working_dir)
+
 # Log
 LOG_OUTPUT = '/Volumes/Samsung 970 EVO/Documents/Python/livevox_hci_summary/log.txt'
 LOG_LEVEL = logging.INFO
+
 
 # Email sending
 SUBJECT = 'HCI_Agent_Summary_Report'
@@ -78,14 +83,16 @@ yesterday = today - timedelta(days=1)
 yesterday_str = yesterday.strftime('%m-%d-%Y')
 
 matching_files = glob.glob(f'{FINAL_FILE_DIRECTORY}/**/*{GENERIC_COMPLETE_FILE_NAME}*', recursive=True)
-FILE_OUTPUT = None
-FILE_NAME = None
+FILE_OUTPUT = os.path.join(working_dir, 'history', f'Overall Average Ready Time - {yesterday_str}.xlsx')
+FILE_NAME = os.path.basename(FILE_OUTPUT)
+print(f'File output before matching files: {FILE_OUTPUT}')
+
 if matching_files:
     for file_path in matching_files:
         if file_path.endswith(f' - {yesterday_str}.xlsx'):
             FILE_OUTPUT = file_path
             FILE_NAME = os.path.basename(file_path)
-            print(f'File output: {FILE_OUTPUT}')
+            print(f'File output after matching files: {FILE_OUTPUT}')
             break
 
 RECEIVER_EMAIL = get_key(dotenv_path, 'RECEIVER_EMAIL')
